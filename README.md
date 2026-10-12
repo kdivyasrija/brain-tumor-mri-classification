@@ -75,4 +75,4 @@ Code: MIT licence (see `LICENSE`). The dataset has its own licence and is not re
 
 ## Author
 
-[Student name], B.Tech Bioinformatics, [Institute]. Guide: [Guide name].
+[Kalidindi Divya srija], B.Tech Bioinformatics, [Amity Institute of Biotechnology]. 
