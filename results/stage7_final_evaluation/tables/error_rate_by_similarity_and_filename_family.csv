@@ -1,0 +1,5 @@
+style,hi,images,error_rate_6_runs
+Tr-/Te- prefixed,r < 0.90,148.0,0.009
+Tr-/Te- prefixed,r >= 0.90,187.0,0.0027
+other filename pattern,r < 0.90,96.0,0.0938
+other filename pattern,r >= 0.90,113.0,0.0103

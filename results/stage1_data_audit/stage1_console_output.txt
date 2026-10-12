@@ -1,0 +1,407 @@
+{
+  "python": "3.12.3",
+  "torch": "n/a (sandbox)",
+  "torchvision": "n/a (sandbox)",
+  "cuda_available": false,
+  "gpu": null,
+  "seed": 42
+}
+files 10498
+raw/
+[D] Train/  (9474 files)
+    [D] Glioma/  (2306 files)
+        [D] images/  (1153 files)
+            - Te-glTr_0000.jpg
+            - Te-glTr_0005.jpg
+            - Te-glTr_0007.jpg
+            - Te-gl_0014.jpg
+            ... 1149 more files in this folder
+        [D] labels/  (1153 files)
+            - Te-glTr_0000.txt
+            - Te-glTr_0005.txt
+            - Te-glTr_0007.txt
+            - Te-gl_0014.txt
+            ... 1149 more files in this folder
+    [D] Meningioma/  (2898 files)
+        [D] images/  (1449 files)
+            - Tr-meTr_0008.jpg
+            - Tr-meTr_0009.jpg
+            - Tr-me_0010.jpg
+            - Tr-me_0011.jpg
+            ... 1445 more files in this folder
+        [D] labels/  (1449 files)
+            - Tr-meTr_0008.txt
+            - Tr-meTr_0009.txt
+            - Tr-me_0010.txt
+            - Tr-me_0011.txt
+            ... 1445 more files in this folder
+    [D] No Tumor/  (1422 files)
+        [D] images/  (711 files)
+            - 1.jpg
+            - 3.jpg
+            - 4.jpg
+            - 5.jpg
+            ... 707 more files in this folder
+        [D] labels/  (711 files)
+            - 1.txt
+            - 3.txt
+            - 4.txt
+            - 5.txt
+            ... 707 more files in this folder
+    [D] Pituitary/  (2848 files)
+        [D] images/  (1424 files)
+            - Te-pi_0010.jpg
+            - Te-pi_0011.jpg
+            - Te-pi_0013.jpg
+            - Te-pi_0015.jpg
+            ... 1420 more files in this folder
+        [D] labels/  (1424 files)
+            - Te-pi_0010.txt
+            - Te-pi_0011.txt
+            - Te-pi_0013.txt
+            - Te-pi_0015.txt
+            ... 1420 more files in this folder
+[D] Val/  (1024 files)
+    [D] Glioma/  (272 files)
+        [D] images/  (136 files)
+            - Tr-gl_0202.jpg
+            - Tr-gl_0238.jpg
+            - Tr-gl_0245.jpg
+            - Tr-gl_0307.jpg
+            ... 132 more files in this folder
+        [D] labels/  (136 files)
+            - Tr-gl_0202.txt
+            - Tr-gl_0238.txt
+            - Tr-gl_0245.txt
+            - Tr-gl_0307.txt
+            ... 132 more files in this folder
+    [D] Meningioma/  (280 files)
+        [D] images/  (140 files)
+            - Tr-meTr_0000.jpg
+            - Tr-meTr_0004.jpg
+            - Tr-meTr_0007.jpg
+            - Tr-me_0012.jpg
+            ... 136 more files in this folder
+        [D] labels/  (140 files)
+            - Tr-meTr_0000.txt
+            - Tr-meTr_0004.txt
+            - Tr-meTr_0007.txt
+            - Tr-me_0012.txt
+            ... 136 more files in this folder
+    [D] No Tumor/  (200 files)
+        [D] images/  (100 files)
+            - Tr-no_0025.jpg
+            - Tr-no_0042.jpg
+            - Tr-no_0048.jpg
+            - Tr-no_0049.jpg
+            ... 96 more files in this folder
+        [D] labels/  (100 files)
+            - Tr-no_0025.txt
+            - Tr-no_0042.txt
+            - Tr-no_0048.txt
+            - Tr-no_0049.txt
+            ... 96 more files in this folder
+    [D] Pituitary/  (272 files)
+        [D] images/  (136 files)
+            - Te-pi_0018.jpg
+            - Te-pi_0021.jpg
+            - Te-pi_0025.jpg
+            - Te-pi_0036.jpg
+            ... 132 more files in this folder
+        [D] labels/  (136 files)
+            - Te-pi_0018.txt
+            - Te-pi_0021.txt
+            - Te-pi_0025.txt
+            - Te-pi_0036.txt
+            ... 132 more files in this folder
+Total files: 10498
+
+Files by extension:
+ext
+.jpg    5249
+.txt    5249
+
+Total image files: 5249
+Image files sharing a filename stem with another image (matters for annotation matching): 0
+Readable images: 5249 | Corrupted/unreadable: 0
+
+Formats:
+ format
+JPEG    5245
+PNG        4
+
+Colour modes (PIL):
+ mode
+RGB     4247
+L        998
+RGBA       3
+P          1
+
+Number of bands:
+ n_bands
+3    4247
+1     999
+4       3
+
+RGB-stored images whose 3 channels are identical (i.e. effectively grayscale): 4217
+
+Distinct image sizes: 325
+size
+512x512    4206
+225x225     119
+630x630      66
+442x442      42
+236x236      33
+256x256      25
+201x251      23
+201x250      22
+214x236      18
+468x444      15
+359x449      13
+504x540      13
+393x400      12
+550x664      12
+200x252      11
+
+Width  min/median/max: 150 512.0 1375
+Height min/median/max: 168 512.0 1446
+Pixel mean/std (global): 45.92 44.85
+Images that look almost blank (std < 5): 0
+Existing split folders detected: ['train', 'val']
+
+Candidate class folders (label_guess):
+label_guess
+Meningioma    1589
+Pituitary     1560
+Glioma        1289
+No Tumor       811
+
+Split x class table:
+label_guess  Glioma  Meningioma  No Tumor  Pituitary
+split                                               
+train          1153        1449       711       1424
+val             136         140       100        136
+
+Number of candidate classes: 4
+Candidate annotation/text files by extension:
+ext
+.txt    5249
+
+--- raw sample (.txt): Train/Meningioma/labels/Tr-me_0512.txt ---
+1 0.651367 0.379883 0.208984 0.208984
+
+Parsed bounding boxes: 5873 | files that could not be parsed by the built-in parsers: 0
+Detected bounding-box format(s): {'yolo_cxcywh_norm': 5873}
+
+Box classes: {3: 1936, 1: 1624, 0: 1502, 2: 811}
+
+Coordinate ranges for yolo_cxcywh_norm:
+         v1     v2     v3     v4
+min   0.155  0.123  0.020  0.018
+max   0.844  0.800  0.996  0.998
+mean  0.497  0.468  0.223  0.232
+  values outside [0,1]: 0
+
+Images with an annotation file: 5247 of 5249
+Images with >=1 bounding box: 5246
+Annotation keys with no matching image: 2
+Boxes per image distribution (images with boxes):
+n_boxes
+1    4697
+2     487
+3      50
+4      10
+5       2
+
+Bounding boxes by class folder (label_guess):
+has_box     False  True 
+class                   
+Glioma          1   1288
+Meningioma      0   1589
+No Tumor        2    809
+Pituitary       0   1560
+Images involved in exact-duplicate groups: 2564 | groups: 1228
+Exact-duplicate groups spanning >1 label  : 0
+Exact-duplicate groups spanning >1 split  : 213
+                                  n        labels        splits
+md5                                                            
+0010727efcd278c61306172ec0ca5a3f  2   [Pituitary]       [train]
+0052c398399075925e0fad61910613b0  2  [Meningioma]       [train]
+009a823eceb6ec31b2b3417850c1e6f9  2  [Meningioma]  [train, val]
+00ff170dab2988e442309f7812c13276  2      [Glioma]  [train, val]
+017f984430664167e6a6067963c77364  2  [Meningioma]       [train]
+019f8b7d5a0d418509399b63588743cc  2   [Pituitary]       [train]
+01de04449e1175e897fdc09d8917cc29  2  [Meningioma]  [train, val]
+0239209ee6590fb477087edc0685c560  2  [Meningioma]       [train]
+02416475cb99cda7d3ffeb4cd828a2a6  2  [Meningioma]       [train]
+02901351cdefc7442c9f0b3adf20f3ec  2  [Meningioma]       [train]
+
+Pairs with dHash distance <= 4: 6070 (exact-byte duplicates: 1514, near-only: 4556)
+Near-duplicate candidate pairs with DIFFERENT class labels: 311
+Example filenames:
+Tr-me_0609.jpg
+Tr-pi_0874.jpg
+  gg (635).jpg
+Tr-pi_0565.jpg
+  gg (517).jpg
+    m1(74).jpg
+Tr-me_0674.jpg
+Tr-me_0886.jpg
+Tr-pi_0845.jpg
+   p (597).jpg
+Tr-me_0120.jpg
+Tr-no_0286.jpg
+Tr-me_0670.jpg
+   p (264).jpg
+   p (156).jpg
+
+Filename patterns (digits replaced by #), top 15:
+stem
+p (#)        822
+Tr-me_#      774
+gg (#)       727
+Tr-pi_#      695
+Tr-no_#      478
+Tr-gl_#      457
+m# (#)       418
+image(#)     267
+m (#)        200
+m#(#)        192
+Te-gl_#       99
+image (#)     52
+Te-pi_#       39
+#              7
+Tr-noTr_#      6
+
+Metadata keys found in a sample of images: {'jfif': 300, 'jfif_version': 300, 'jfif_unit': 300, 'jfif_density': 300, 'exif': 1, 'xmp': 1, 'dpi': 1, 'exif:305': 1, 'exif:274': 1, 'exif:34665': 1}
+
+Other files (check for README / metadata / labels tables):
+                                   rel  size_kb
+Train/Meningioma/labels/Tr-me_0512.txt 0.037109
+Train/Meningioma/labels/Tr-me_1108.txt 0.037109
+   Train/Meningioma/labels/m (113).txt 0.037109
+Train/Meningioma/labels/Tr-me_1006.txt 0.037109
+    Train/Meningioma/labels/m1(49).txt 0.037109
+Train/Meningioma/labels/Tr-me_1231.txt 0.037109
+Train/Meningioma/labels/Tr-me_1010.txt 0.037109
+Train/Meningioma/labels/Tr-me_0418.txt 0.037109
+Train/Meningioma/labels/Tr-me_0076.txt 0.037109
+Train/Meningioma/labels/Tr-me_0059.txt 0.074219
+Train/Meningioma/labels/Tr-me_0074.txt 0.037109
+Train/Meningioma/labels/Tr-me_1214.txt 0.074219
+Train/Meningioma/labels/Tr-me_0668.txt 0.037109
+Train/Meningioma/labels/Tr-me_0795.txt 0.037109
+Train/Meningioma/labels/Tr-me_0890.txt 0.037109
+   Train/Meningioma/labels/m3 (79).txt 0.074219
+   Train/Meningioma/labels/m2 (97).txt 0.037109
+     Train/Meningioma/labels/m (2).txt 0.037109
+  Train/Meningioma/labels/m3 (156).txt 0.037109
+Train/Meningioma/labels/Tr-me_0053.txt 0.037109
+{
+  "environment": {
+    "python": "3.12.3",
+    "torch": "n/a (sandbox)",
+    "torchvision": "n/a (sandbox)",
+    "cuda_available": false,
+    "gpu": null,
+    "seed": 42
+  },
+  "dataset_slug": "ahmedsorour1/mri-for-brain-tumor-with-bounding-boxes",
+  "total_files": 10498,
+  "image_files": 5249,
+  "readable_images": 5249,
+  "corrupted_images": 0,
+  "extensions": {
+    ".jpg": 5249,
+    ".txt": 5249
+  },
+  "candidate_classes": {
+    "Meningioma": 1589,
+    "Pituitary": 1560,
+    "Glioma": 1289,
+    "No Tumor": 811
+  },
+  "existing_splits": [
+    "train",
+    "val"
+  ],
+  "distinct_image_sizes": 325,
+  "modes": {
+    "RGB": 4247,
+    "L": 998,
+    "RGBA": 3,
+    "P": 1
+  },
+  "exact_duplicate_groups": 1228,
+  "near_duplicate_candidate_pairs": 4556,
+  "boxes_parsed": 5873,
+  "box_formats": {
+    "yolo_cxcywh_norm": 5873
+  },
+  "images_with_boxes": 5246
+}
+
+
+===== EXTRA CHECKS =====
+
+[1] Box class id vs folder:
+cls             0     1    2     3
+label_guess                       
+Glioma       1500     3    0   164
+Meningioma      2  1620    0   109
+NO IMAGE        0     0    2     0
+No Tumor        0     0  809     0
+Pituitary       0     1    0  1663
+
+[2] Box width/height/area (normalised) by folder:
+                v3                   v4                 area              
+              mean    min    max   mean    min    max   mean    min    max
+label_guess                                                               
+Glioma       0.134  0.020  0.342  0.133  0.018  0.375  0.020  0.000  0.107
+Meningioma   0.167  0.027  0.532  0.165  0.031  0.575  0.032  0.001  0.184
+No Tumor     0.764  0.344  0.996  0.833  0.318  0.998  0.641  0.135  0.991
+Pituitary    0.105  0.025  0.276  0.109  0.020  0.316  0.012  0.000  0.067
+No Tumor boxes with area>0.5 of image: 659 of 809
+
+[3] images without txt: ['image(55)', 'image(61)']
+    txt without image: ['image(53)', 'image(60)']
+    empty txt files: ['Val/Glioma/labels/gg (342).txt']
+    images with 0 boxes:
+                              rel  width  height
+   Val/Glioma/images/gg (342).jpg    512     512
+Val/No Tumor/images/image(55).jpg    236     243
+Val/No Tumor/images/image(61).jpg    218     234
+
+[4] filename prefix vs split:
+split   train  val
+prefix            
+Te-       135    6
+Tr-      2175  247
+other    2427  259
+
+[5] images in exact-dup groups: 2564 (48.8%)
+    unique images (by md5): 3913  -> redundant copies: 1336
+    group size distribution: {2: 1163, 3: 40, 4: 14, 5: 6, 6: 3, 7: 2}
+    unique-by-md5 per class: {'Glioma': 1190, 'Meningioma': 1095, 'Pituitary': 1027, 'No Tumor': 601}
+    val images whose md5 also exists in train: 218 of 512 (42.6%)
+    by class: {'Meningioma': 78, 'Pituitary': 77, 'No Tumor': 54, 'Glioma': 9}
+    train images with a duplicate inside train: 2141 of 4737
+    sample dup groups (stems): [['p (153)', 'Tr-pi_0060'], ['m1(71)', 'Tr-me_0337'], ['Tr-me_0470', 'm2 (31)'], ['Te-glTr_0005', 'gg (553)'], ['m2 (83)', 'Tr-me_0527']]
+    dHash<= 0: 2314 pairs, different-label pairs: 1
+    dHash<= 1: 2802 pairs, different-label pairs: 4
+    dHash<= 2: 3342 pairs, different-label pairs: 22
+    dHash<= 4: 6070 pairs, different-label pairs: 311
+
+[7] cross-label dHash<=4 pairs: 311 | pixel-corr median 0.773, share >0.95: 0.0%, >0.99: 0.0%
+    exact-dup pairs with different label: 0
+    label-pair counts: [(('Glioma', 'Meningioma'), 175), (('Meningioma', 'Pituitary'), 40), (('Glioma', 'No Tumor'), 38), (('Glioma', 'Pituitary'), 32), (('No Tumor', 'Pituitary'), 19), (('Meningioma', 'No Tumor'), 7)]
+
+[8] image size 512x512 share by class:
+{'Glioma': 1.0, 'Meningioma': 0.872, 'No Tumor': 0.02, 'Pituitary': 0.971}
+    grayscale-like by class: {'Glioma': 1.0, 'Meningioma': 1.0, 'No Tumor': 0.958, 'Pituitary': 1.0}
+    odd-format files:
+                                 rel format mode    size
+Train/No Tumor/images/Tr-no_1019.jpg    PNG RGBA 393x400
+Train/No Tumor/images/Tr-no_1011.jpg    PNG RGBA 550x664
+Train/No Tumor/images/Tr-no_1012.jpg    PNG    P 728x725
+Train/No Tumor/images/Tr-no_1020.jpg    PNG RGBA 442x454

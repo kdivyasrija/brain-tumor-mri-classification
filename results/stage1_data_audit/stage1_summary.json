@@ -1,0 +1,43 @@
+{
+  "environment": {
+    "python": "3.12.3",
+    "torch": "n/a (sandbox)",
+    "torchvision": "n/a (sandbox)",
+    "cuda_available": false,
+    "gpu": null,
+    "seed": 42
+  },
+  "dataset_slug": "ahmedsorour1/mri-for-brain-tumor-with-bounding-boxes",
+  "total_files": 10498,
+  "image_files": 5249,
+  "readable_images": 5249,
+  "corrupted_images": 0,
+  "extensions": {
+    ".jpg": 5249,
+    ".txt": 5249
+  },
+  "candidate_classes": {
+    "Meningioma": 1589,
+    "Pituitary": 1560,
+    "Glioma": 1289,
+    "No Tumor": 811
+  },
+  "existing_splits": [
+    "train",
+    "val"
+  ],
+  "distinct_image_sizes": 325,
+  "modes": {
+    "RGB": 4247,
+    "L": 998,
+    "RGBA": 3,
+    "P": 1
+  },
+  "exact_duplicate_groups": 1228,
+  "near_duplicate_candidate_pairs": 4556,
+  "boxes_parsed": 5873,
+  "box_formats": {
+    "yolo_cxcywh_norm": 5873
+  },
+  "images_with_boxes": 5246
+}

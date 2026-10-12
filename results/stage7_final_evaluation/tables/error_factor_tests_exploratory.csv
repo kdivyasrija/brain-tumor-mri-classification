@@ -1,0 +1,4 @@
+comparison,group_a_wrong_any_vs_never,group_b_wrong_any_vs_never,fisher_exact_p
+512x512 vs other size (image wrong in any of 6 runs),"[19, 436]","[6, 83]",0.2741
+tumour box area: smallest vs largest third,"[6, 152]","[6, 151]",1.0
+singleton vs multi-image group,"[22, 476]","[3, 43]",0.4597

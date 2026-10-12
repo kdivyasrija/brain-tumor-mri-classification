@@ -1,0 +1,1108 @@
+rel,split,label,max_corr_train,nn_label,nn_correct,best_same_class,best_other_class,style
+Train/Glioma/images/Te-gl_0016.jpg,val,Glioma,0.9204062,Meningioma,False,0.8707568,0.9204062,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0030.jpg,val,Glioma,0.95039904,Glioma,True,0.95039904,0.7714961,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0049.jpg,val,Glioma,0.96708345,Glioma,True,0.96708345,0.8461704,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0060.jpg,val,Glioma,0.9171966,Glioma,True,0.9171966,0.8491962,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0065.jpg,val,Glioma,0.93049324,Glioma,True,0.93049324,0.7767851,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0121.jpg,val,Glioma,0.9190975,Glioma,True,0.9190975,0.88448906,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0148.jpg,val,Glioma,0.877428,Glioma,True,0.877428,0.75607246,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0177.jpg,val,Glioma,0.917266,Glioma,True,0.917266,0.7749745,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0215.jpg,val,Glioma,0.9372897,Glioma,True,0.9372897,0.7713665,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0229.jpg,val,Glioma,0.91626793,Meningioma,False,0.90318656,0.91626793,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0248.jpg,val,Glioma,0.9148491,Glioma,True,0.9148491,0.86393166,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0266.jpg,val,Glioma,0.7631499,Meningioma,False,0.68827176,0.7631499,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0277.jpg,val,Glioma,0.93878984,Glioma,True,0.93878984,0.7241498,Tr-/Te- prefixed
+Train/Glioma/images/Tr-glTr_0000.jpg,val,Glioma,0.8974707,Glioma,True,0.8974707,0.79707205,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0021.jpg,val,Glioma,0.8834127,Glioma,True,0.8834127,0.8117711,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0037.jpg,val,Glioma,0.8525976,Glioma,True,0.8525976,0.7458684,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0045.jpg,val,Glioma,0.8505777,Glioma,True,0.8505777,0.7478779,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0060.jpg,val,Glioma,0.9701423,Glioma,True,0.9701423,0.8477605,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0090.jpg,val,Glioma,0.9761165,Glioma,True,0.9761165,0.8569446,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0106.jpg,val,Glioma,0.940024,Glioma,True,0.940024,0.86981326,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0120.jpg,val,Glioma,0.97484976,Glioma,True,0.97484976,0.87703747,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0121.jpg,val,Glioma,0.8533073,Meningioma,False,0.83249974,0.8533073,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0153.jpg,val,Glioma,0.95495874,Glioma,True,0.95495874,0.80831975,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0165.jpg,val,Glioma,0.8809115,Glioma,True,0.8809115,0.8614537,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0176.jpg,val,Glioma,0.9198526,Glioma,True,0.9198526,0.7901166,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0191.jpg,val,Glioma,0.9355038,Glioma,True,0.9355038,0.85836214,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0240.jpg,val,Glioma,0.9050885,Glioma,True,0.9050885,0.89085174,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0268.jpg,val,Glioma,0.83340335,No Tumor,False,0.80643064,0.83340335,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0316.jpg,val,Glioma,0.89892715,Glioma,True,0.89892715,0.8545046,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0364.jpg,val,Glioma,0.9781197,Glioma,True,0.9781197,0.8027338,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0401.jpg,val,Glioma,0.9341404,Glioma,True,0.9341404,0.92224765,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0428.jpg,val,Glioma,0.93791616,Glioma,True,0.93791616,0.79488707,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0450.jpg,val,Glioma,0.93002445,Glioma,True,0.93002445,0.7856974,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0468.jpg,val,Glioma,0.9076668,Glioma,True,0.9076668,0.7838446,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0481.jpg,val,Glioma,0.89480245,Glioma,True,0.89480245,0.81011873,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0496.jpg,val,Glioma,0.920535,Glioma,True,0.920535,0.82088333,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0504.jpg,val,Glioma,0.85069996,Meningioma,False,0.81227475,0.85069996,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0552.jpg,val,Glioma,0.96425045,Glioma,True,0.96425045,0.8704249,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0566.jpg,val,Glioma,0.95344025,Glioma,True,0.95344025,0.7747155,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0584.jpg,val,Glioma,0.93408185,Glioma,True,0.93408185,0.7809166,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0594.jpg,val,Glioma,0.95933867,Glioma,True,0.95933867,0.84595263,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0618.jpg,val,Glioma,0.86162084,Glioma,True,0.86162084,0.8468428,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0630.jpg,val,Glioma,0.87322193,Glioma,True,0.87322193,0.8077922,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0648.jpg,val,Glioma,0.7695288,Meningioma,False,0.7429142,0.7695288,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0666.jpg,val,Glioma,0.9442891,Glioma,True,0.9442891,0.72494376,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0751.jpg,val,Glioma,0.7824805,Meningioma,False,0.73942095,0.7824805,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0807.jpg,val,Glioma,0.9139998,Glioma,True,0.9139998,0.8300057,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0861.jpg,val,Glioma,0.9079046,Glioma,True,0.9079046,0.7592705,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0914.jpg,val,Glioma,0.8788259,Glioma,True,0.8788259,0.72241455,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0931.jpg,val,Glioma,0.77404135,Meningioma,False,0.76332843,0.77404135,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0956.jpg,val,Glioma,0.7759933,Glioma,True,0.7759933,0.7651462,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0971.jpg,val,Glioma,0.84309536,Glioma,True,0.84309536,0.79822165,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0999.jpg,val,Glioma,0.83572245,Glioma,True,0.83572245,0.7785269,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1007.jpg,val,Glioma,0.77991796,Glioma,True,0.77991796,0.7721783,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1017.jpg,val,Glioma,0.89508706,Glioma,True,0.89508706,0.74803627,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1028.jpg,val,Glioma,0.80078864,Glioma,True,0.80078864,0.771351,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1041.jpg,val,Glioma,0.8248029,Glioma,True,0.8248029,0.6900402,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1082.jpg,val,Glioma,0.78239954,Glioma,True,0.78239954,0.63749206,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1120.jpg,val,Glioma,0.8406536,Glioma,True,0.8406536,0.8126194,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1135.jpg,val,Glioma,0.9386966,Glioma,True,0.9386966,0.82779515,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1152.jpg,val,Glioma,0.95769244,Meningioma,False,0.90497786,0.95769244,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1161.jpg,val,Glioma,0.90714765,Glioma,True,0.90714765,0.8442784,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1183.jpg,val,Glioma,0.88823,Glioma,True,0.88823,0.8200438,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1191.jpg,val,Glioma,0.8942827,Meningioma,False,0.84882325,0.8942827,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1207.jpg,val,Glioma,0.8510688,Glioma,True,0.8510688,0.7340359,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1228.jpg,val,Glioma,0.8515814,Glioma,True,0.8515814,0.7720336,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1231.jpg,val,Glioma,0.7836665,Meningioma,False,0.7065246,0.7836665,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1263.jpg,val,Glioma,0.7807242,Glioma,True,0.7807242,0.6677776,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1270.jpg,val,Glioma,0.8136793,Glioma,True,0.8136793,0.7841003,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1318.jpg,val,Glioma,0.9090191,Glioma,True,0.9090191,0.8552303,Tr-/Te- prefixed
+Train/Glioma/images/gg (108).jpg,val,Glioma,0.8160954,Glioma,True,0.8160954,0.8052209,other filename pattern
+Train/Glioma/images/gg (116).jpg,val,Glioma,0.9384769,Glioma,True,0.9384769,0.8321842,other filename pattern
+Train/Glioma/images/gg (120).jpg,val,Glioma,0.82717586,Meningioma,False,0.8203145,0.82717586,other filename pattern
+Train/Glioma/images/gg (127).jpg,val,Glioma,0.8081789,Meningioma,False,0.7593658,0.8081789,other filename pattern
+Train/Glioma/images/gg (128).jpg,val,Glioma,0.9141069,Glioma,True,0.9141069,0.8894787,other filename pattern
+Train/Glioma/images/gg (14).jpg,val,Glioma,0.9514816,Glioma,True,0.9514816,0.8790468,other filename pattern
+Train/Glioma/images/gg (159).jpg,val,Glioma,0.89912665,Glioma,True,0.89912665,0.6852468,other filename pattern
+Train/Glioma/images/gg (163).jpg,val,Glioma,0.8537592,Glioma,True,0.8537592,0.66002744,other filename pattern
+Train/Glioma/images/gg (17).jpg,val,Glioma,0.95858914,Glioma,True,0.95858914,0.8572156,other filename pattern
+Train/Glioma/images/gg (177).jpg,val,Glioma,0.917297,Glioma,True,0.917297,0.6688994,other filename pattern
+Train/Glioma/images/gg (185).jpg,val,Glioma,0.8032566,Meningioma,False,0.7873672,0.8032566,other filename pattern
+Train/Glioma/images/gg (196).jpg,val,Glioma,0.8095747,Meningioma,False,0.76894724,0.8095747,other filename pattern
+Train/Glioma/images/gg (201).jpg,val,Glioma,0.8709393,Glioma,True,0.8709393,0.7076215,other filename pattern
+Train/Glioma/images/gg (209).jpg,val,Glioma,0.8536545,Glioma,True,0.8536545,0.7154184,other filename pattern
+Train/Glioma/images/gg (215).jpg,val,Glioma,0.9056491,Glioma,True,0.9056491,0.7752869,other filename pattern
+Train/Glioma/images/gg (226).jpg,val,Glioma,0.80187666,Glioma,True,0.80187666,0.7497105,other filename pattern
+Train/Glioma/images/gg (233).jpg,val,Glioma,0.82621443,Glioma,True,0.82621443,0.7123222,other filename pattern
+Train/Glioma/images/gg (240).jpg,val,Glioma,0.8652235,Glioma,True,0.8652235,0.81153905,other filename pattern
+Train/Glioma/images/gg (245).jpg,val,Glioma,0.81792897,Glioma,True,0.81792897,0.7956099,other filename pattern
+Train/Glioma/images/gg (247).jpg,val,Glioma,0.851102,Glioma,True,0.851102,0.78570396,other filename pattern
+Train/Glioma/images/gg (256).jpg,val,Glioma,0.8513996,Glioma,True,0.8513996,0.69904214,other filename pattern
+Train/Glioma/images/gg (268).jpg,val,Glioma,0.815632,Glioma,True,0.815632,0.7017343,other filename pattern
+Train/Glioma/images/gg (278).jpg,val,Glioma,0.9237134,Glioma,True,0.9237134,0.8571602,other filename pattern
+Train/Glioma/images/gg (291).jpg,val,Glioma,0.942473,Glioma,True,0.942473,0.8263981,other filename pattern
+Train/Glioma/images/gg (3).jpg,val,Glioma,0.9561679,Glioma,True,0.9561679,0.82688165,other filename pattern
+Train/Glioma/images/gg (301).jpg,val,Glioma,0.8658917,Glioma,True,0.8658917,0.7963501,other filename pattern
+Train/Glioma/images/gg (311).jpg,val,Glioma,0.9077542,Glioma,True,0.9077542,0.8084345,other filename pattern
+Train/Glioma/images/gg (325).jpg,val,Glioma,0.8508087,Glioma,True,0.8508087,0.8486965,other filename pattern
+Train/Glioma/images/gg (337).jpg,val,Glioma,0.92690086,Glioma,True,0.92690086,0.888143,other filename pattern
+Train/Glioma/images/gg (348).jpg,val,Glioma,0.91982126,Glioma,True,0.91982126,0.7313673,other filename pattern
+Train/Glioma/images/gg (366).jpg,val,Glioma,0.7431608,Meningioma,False,0.6102366,0.7431608,other filename pattern
+Train/Glioma/images/gg (371).jpg,val,Glioma,0.87342787,Glioma,True,0.87342787,0.7890773,other filename pattern
+Train/Glioma/images/gg (386).jpg,val,Glioma,0.8915674,Glioma,True,0.8915674,0.8809322,other filename pattern
+Train/Glioma/images/gg (398).jpg,val,Glioma,0.87202805,Glioma,True,0.87202805,0.8129798,other filename pattern
+Train/Glioma/images/gg (406).jpg,val,Glioma,0.9127468,Glioma,True,0.9127468,0.84481686,other filename pattern
+Train/Glioma/images/gg (412).jpg,val,Glioma,0.9071775,Glioma,True,0.9071775,0.75207067,other filename pattern
+Train/Glioma/images/gg (421).jpg,val,Glioma,0.8597523,Glioma,True,0.8597523,0.81424516,other filename pattern
+Train/Glioma/images/gg (43).jpg,val,Glioma,0.7815464,Meningioma,False,0.76112545,0.7815464,other filename pattern
+Train/Glioma/images/gg (433).jpg,val,Glioma,0.8163659,Meningioma,False,0.78885597,0.8163659,other filename pattern
+Train/Glioma/images/gg (437).jpg,val,Glioma,0.96955514,Glioma,True,0.96955514,0.7915412,other filename pattern
+Train/Glioma/images/gg (450).jpg,val,Glioma,0.85872173,Meningioma,False,0.8096712,0.85872173,other filename pattern
+Train/Glioma/images/gg (456).jpg,val,Glioma,0.92466724,Glioma,True,0.92466724,0.5819476,other filename pattern
+Train/Glioma/images/gg (465).jpg,val,Glioma,0.8652202,Glioma,True,0.8652202,0.7461287,other filename pattern
+Train/Glioma/images/gg (477).jpg,val,Glioma,0.96162665,Glioma,True,0.96162665,0.90148145,other filename pattern
+Train/Glioma/images/gg (485).jpg,val,Glioma,0.9336607,Glioma,True,0.9336607,0.85792935,other filename pattern
+Train/Glioma/images/gg (504).jpg,val,Glioma,0.93742985,Glioma,True,0.93742985,0.8419056,other filename pattern
+Train/Glioma/images/gg (509).jpg,val,Glioma,0.8949281,Glioma,True,0.8949281,0.8481957,other filename pattern
+Train/Glioma/images/gg (534).jpg,val,Glioma,0.89068246,Glioma,True,0.89068246,0.8471677,other filename pattern
+Train/Glioma/images/gg (540).jpg,val,Glioma,0.94909394,Glioma,True,0.94909394,0.91843325,other filename pattern
+Train/Glioma/images/gg (564).jpg,val,Glioma,0.94135565,Glioma,True,0.94135565,0.8900822,other filename pattern
+Train/Glioma/images/gg (58).jpg,val,Glioma,0.9191442,Glioma,True,0.9191442,0.75835794,other filename pattern
+Train/Glioma/images/gg (590).jpg,val,Glioma,0.96447176,Glioma,True,0.96447176,0.8576283,other filename pattern
+Train/Glioma/images/gg (598).jpg,val,Glioma,0.90166354,Glioma,True,0.90166354,0.8874632,other filename pattern
+Train/Glioma/images/gg (6).jpg,val,Glioma,0.9281814,Glioma,True,0.9281814,0.86395115,other filename pattern
+Train/Glioma/images/gg (609).jpg,val,Glioma,0.9650984,Glioma,True,0.9650984,0.8430793,other filename pattern
+Train/Glioma/images/gg (62).jpg,val,Glioma,0.80820125,Glioma,True,0.80820125,0.7645345,other filename pattern
+Train/Glioma/images/gg (622).jpg,val,Glioma,0.9420927,Glioma,True,0.9420927,0.9131194,other filename pattern
+Train/Glioma/images/gg (63).jpg,val,Glioma,0.89345175,Glioma,True,0.89345175,0.73802644,other filename pattern
+Train/Glioma/images/gg (632).jpg,val,Glioma,0.9567176,Glioma,True,0.9567176,0.7737265,other filename pattern
+Train/Glioma/images/gg (651).jpg,val,Glioma,0.9214643,Glioma,True,0.9214643,0.8033853,other filename pattern
+Train/Glioma/images/gg (659).jpg,val,Glioma,0.97480726,Glioma,True,0.97480726,0.8550824,other filename pattern
+Train/Glioma/images/gg (660).jpg,val,Glioma,0.97319233,Glioma,True,0.97319233,0.8558946,other filename pattern
+Train/Glioma/images/gg (667).jpg,val,Glioma,0.9675134,Glioma,True,0.9675134,0.8564089,other filename pattern
+Train/Glioma/images/gg (679).jpg,val,Glioma,0.8877337,Glioma,True,0.8877337,0.84098524,other filename pattern
+Train/Glioma/images/gg (69).jpg,val,Glioma,0.9051659,Glioma,True,0.9051659,0.7525835,other filename pattern
+Train/Glioma/images/gg (7).jpg,val,Glioma,0.94028294,Glioma,True,0.94028294,0.82879794,other filename pattern
+Train/Glioma/images/gg (71).jpg,val,Glioma,0.88929975,Glioma,True,0.88929975,0.7568613,other filename pattern
+Train/Glioma/images/gg (715).jpg,val,Glioma,0.9137754,Glioma,True,0.9137754,0.82924306,other filename pattern
+Train/Glioma/images/gg (722).jpg,val,Glioma,0.7405694,Meningioma,False,0.7236587,0.7405694,other filename pattern
+Train/Glioma/images/gg (733).jpg,val,Glioma,0.9340056,Glioma,True,0.9340056,0.8222349,other filename pattern
+Train/Glioma/images/gg (739).jpg,val,Glioma,0.94545454,Glioma,True,0.94545454,0.8752953,other filename pattern
+Train/Glioma/images/gg (750).jpg,val,Glioma,0.93859094,Glioma,True,0.93859094,0.909859,other filename pattern
+Train/Glioma/images/gg (756).jpg,val,Glioma,0.8914031,Glioma,True,0.8914031,0.8325554,other filename pattern
+Train/Glioma/images/gg (764).jpg,val,Glioma,0.8320942,Meningioma,False,0.82900524,0.8320942,other filename pattern
+Train/Glioma/images/gg (770).jpg,val,Glioma,0.942762,Glioma,True,0.942762,0.80142194,other filename pattern
+Train/Glioma/images/gg (782).jpg,val,Glioma,0.9322213,Glioma,True,0.9322213,0.8817989,other filename pattern
+Train/Glioma/images/gg (792).jpg,val,Glioma,0.8467983,Glioma,True,0.8467983,0.7753659,other filename pattern
+Train/Glioma/images/gg (806).jpg,val,Glioma,0.9390219,Glioma,True,0.9390219,0.83593655,other filename pattern
+Train/Glioma/images/gg (811).jpg,val,Glioma,0.9543557,Glioma,True,0.9543557,0.80028516,other filename pattern
+Train/Glioma/images/gg (814).jpg,val,Glioma,0.93743724,Glioma,True,0.93743724,0.81240857,other filename pattern
+Train/Glioma/images/gg (94).jpg,val,Glioma,0.78271043,Glioma,True,0.78271043,0.5931884,other filename pattern
+Train/Meningioma/images/Tr-me_0011.jpg,val,Meningioma,0.9342295,Meningioma,True,0.9342295,0.9281974,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0026.jpg,val,Meningioma,0.92084163,Meningioma,True,0.92084163,0.834888,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0041.jpg,val,Meningioma,0.9475894,Meningioma,True,0.9475894,0.83291346,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0050.jpg,val,Meningioma,0.8703645,Meningioma,True,0.8703645,0.83452404,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0067.jpg,val,Meningioma,0.9497696,Meningioma,True,0.9497696,0.89286023,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0078.jpg,val,Meningioma,0.9747178,Meningioma,True,0.9747178,0.89160424,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0089.jpg,val,Meningioma,0.9163694,Meningioma,True,0.9163694,0.73982286,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0103.jpg,val,Meningioma,0.7933425,Meningioma,True,0.7933425,0.7594669,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0114.jpg,val,Meningioma,0.9391453,Meningioma,True,0.9391453,0.8450828,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0136.jpg,val,Meningioma,0.8706964,Meningioma,True,0.8706964,0.84259564,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0150.jpg,val,Meningioma,0.94703466,Meningioma,True,0.94703466,0.80606854,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0165.jpg,val,Meningioma,0.8637198,Meningioma,True,0.8637198,0.81377286,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0184.jpg,val,Meningioma,0.9079001,Meningioma,True,0.9079001,0.84495574,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0207.jpg,val,Meningioma,0.8177535,Meningioma,True,0.8177535,0.80915076,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0223.jpg,val,Meningioma,0.59049386,Pituitary,False,0.54031086,0.59049386,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0231.jpg,val,Meningioma,0.68811136,Pituitary,False,0.6582929,0.68811136,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0240.jpg,val,Meningioma,0.7095514,Pituitary,False,0.70861423,0.7095514,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0264.jpg,val,Meningioma,0.5317368,Pituitary,False,0.49832982,0.5317368,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0351.jpg,val,Meningioma,0.89177245,Meningioma,True,0.89177245,0.85401064,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0357.jpg,val,Meningioma,0.9893122,Meningioma,True,0.9893122,0.8997577,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0376.jpg,val,Meningioma,0.90376115,Meningioma,True,0.90376115,0.8338362,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0386.jpg,val,Meningioma,0.8908626,Meningioma,True,0.8908626,0.83518106,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0391.jpg,val,Meningioma,0.9120507,Glioma,False,0.88090867,0.9120507,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0399.jpg,val,Meningioma,0.9332558,Meningioma,True,0.9332558,0.83739823,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0402.jpg,val,Meningioma,0.8725924,Meningioma,True,0.8725924,0.831139,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0424.jpg,val,Meningioma,0.9036623,Meningioma,True,0.9036623,0.84540284,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0430.jpg,val,Meningioma,0.88720876,Meningioma,True,0.88720876,0.8784825,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0433.jpg,val,Meningioma,0.8997487,Meningioma,True,0.8997487,0.8830776,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0439.jpg,val,Meningioma,0.8396226,Meningioma,True,0.8396226,0.8165248,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0448.jpg,val,Meningioma,0.8995217,Meningioma,True,0.8995217,0.87601066,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0452.jpg,val,Meningioma,0.9369528,Meningioma,True,0.9369528,0.85305995,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0461.jpg,val,Meningioma,0.9670052,Meningioma,True,0.9670052,0.8227504,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0473.jpg,val,Meningioma,0.90741706,Meningioma,True,0.90741706,0.8082318,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0479.jpg,val,Meningioma,0.9058838,Meningioma,True,0.9058838,0.7300075,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0486.jpg,val,Meningioma,0.9137336,Meningioma,True,0.9137336,0.79032916,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0501.jpg,val,Meningioma,0.8942383,Meningioma,True,0.8942383,0.71088463,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0507.jpg,val,Meningioma,0.9063959,Meningioma,True,0.9063959,0.80550325,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0516.jpg,val,Meningioma,0.926451,Meningioma,True,0.926451,0.7327074,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0526.jpg,val,Meningioma,0.8586607,Meningioma,True,0.8586607,0.78545326,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0530.jpg,val,Meningioma,0.93485075,Meningioma,True,0.93485075,0.84920555,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0541.jpg,val,Meningioma,0.88942426,Meningioma,True,0.88942426,0.8122705,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0544.jpg,val,Meningioma,0.87724054,Meningioma,True,0.87724054,0.84041387,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0555.jpg,val,Meningioma,0.9176108,Meningioma,True,0.9176108,0.7876621,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0564.jpg,val,Meningioma,0.9187576,Meningioma,True,0.9187576,0.7819733,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0568.jpg,val,Meningioma,0.7403611,Meningioma,True,0.7403611,0.6849938,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0581.jpg,val,Meningioma,0.8332171,No Tumor,False,0.7868502,0.8332171,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0593.jpg,val,Meningioma,0.7172012,Meningioma,True,0.7172012,0.67755276,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0606.jpg,val,Meningioma,0.81966853,Meningioma,True,0.81966853,0.7690054,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0622.jpg,val,Meningioma,0.9243258,Meningioma,True,0.9243258,0.72944903,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0639.jpg,val,Meningioma,0.8268889,Meningioma,True,0.8268889,0.81149375,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0646.jpg,val,Meningioma,0.71864545,Glioma,False,0.7036762,0.71864545,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0658.jpg,val,Meningioma,0.8533799,Meningioma,True,0.8533799,0.80634946,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0666.jpg,val,Meningioma,0.91752744,Meningioma,True,0.91752744,0.7531,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0669.jpg,val,Meningioma,0.9345113,Meningioma,True,0.9345113,0.7143506,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0680.jpg,val,Meningioma,0.690831,Meningioma,True,0.690831,0.6706259,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0688.jpg,val,Meningioma,0.8823083,Meningioma,True,0.8823083,0.76589584,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0704.jpg,val,Meningioma,0.8706476,Meningioma,True,0.8706476,0.78448015,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0715.jpg,val,Meningioma,0.86714983,Meningioma,True,0.86714983,0.7502232,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0733.jpg,val,Meningioma,0.8702985,Meningioma,True,0.8702985,0.7778014,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0757.jpg,val,Meningioma,0.7877352,Meningioma,True,0.7877352,0.77748185,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0759.jpg,val,Meningioma,0.8374587,Glioma,False,0.83291477,0.8374587,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0762.jpg,val,Meningioma,0.8602531,Meningioma,True,0.8602531,0.8017918,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0776.jpg,val,Meningioma,0.93097043,Meningioma,True,0.93097043,0.78433824,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0782.jpg,val,Meningioma,0.94638604,Meningioma,True,0.94638604,0.6993568,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0789.jpg,val,Meningioma,0.88730997,Meningioma,True,0.88730997,0.7412999,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0818.jpg,val,Meningioma,0.83921015,Glioma,False,0.8007818,0.83921015,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0826.jpg,val,Meningioma,0.8557389,Pituitary,False,0.79386044,0.8557389,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0866.jpg,val,Meningioma,0.6948505,Meningioma,True,0.6948505,0.68168986,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0867.jpg,val,Meningioma,0.91598654,Glioma,False,0.89282197,0.91598654,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0869.jpg,val,Meningioma,0.8642318,Meningioma,True,0.8642318,0.8316662,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0885.jpg,val,Meningioma,0.91154647,Meningioma,True,0.91154647,0.8438515,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0890.jpg,val,Meningioma,0.88482195,Meningioma,True,0.88482195,0.71349764,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0897.jpg,val,Meningioma,0.94968843,Meningioma,True,0.94968843,0.785008,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0910.jpg,val,Meningioma,0.8458149,Meningioma,True,0.8458149,0.8395944,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0924.jpg,val,Meningioma,0.8932452,Meningioma,True,0.8932452,0.83153623,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0941.jpg,val,Meningioma,0.82813686,Meningioma,True,0.82813686,0.8008064,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0949.jpg,val,Meningioma,0.9463779,Meningioma,True,0.9463779,0.8408439,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0961.jpg,val,Meningioma,0.86996824,Meningioma,True,0.86996824,0.85958076,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0971.jpg,val,Meningioma,0.9365477,Meningioma,True,0.9365477,0.9020991,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0990.jpg,val,Meningioma,0.84114295,Meningioma,True,0.84114295,0.82260656,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0996.jpg,val,Meningioma,0.88894016,Meningioma,True,0.88894016,0.81470734,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1009.jpg,val,Meningioma,0.83959264,Glioma,False,0.8173783,0.83959264,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1020.jpg,val,Meningioma,0.8708876,Meningioma,True,0.8708876,0.7623551,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1022.jpg,val,Meningioma,0.84901536,Meningioma,True,0.84901536,0.7694397,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1030.jpg,val,Meningioma,0.6803527,Glioma,False,0.6722555,0.6803527,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1043.jpg,val,Meningioma,0.84249187,Meningioma,True,0.84249187,0.72281325,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1052.jpg,val,Meningioma,0.95131326,Glioma,False,0.9013914,0.95131326,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1074.jpg,val,Meningioma,0.6766049,Pituitary,False,0.6574546,0.6766049,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1086.jpg,val,Meningioma,0.71944153,No Tumor,False,0.71176964,0.71944153,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1100.jpg,val,Meningioma,0.8392975,Meningioma,True,0.8392975,0.76934266,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1110.jpg,val,Meningioma,0.8615682,Glioma,False,0.8451988,0.8615682,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1124.jpg,val,Meningioma,0.78010386,Meningioma,True,0.78010386,0.7418505,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1150.jpg,val,Meningioma,0.69484127,Glioma,False,0.6579053,0.69484127,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1156.jpg,val,Meningioma,0.6135402,No Tumor,False,0.5451888,0.6135402,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1171.jpg,val,Meningioma,0.75740635,Meningioma,True,0.75740635,0.72428125,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1178.jpg,val,Meningioma,0.9525361,Meningioma,True,0.9525361,0.77033806,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1195.jpg,val,Meningioma,0.8094153,Meningioma,True,0.8094153,0.7363197,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1208.jpg,val,Meningioma,0.87577814,Meningioma,True,0.87577814,0.8403083,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1224.jpg,val,Meningioma,0.86685216,Meningioma,True,0.86685216,0.7714037,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1237.jpg,val,Meningioma,0.85489124,Meningioma,True,0.85489124,0.8018369,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1244.jpg,val,Meningioma,0.7120839,Meningioma,True,0.7120839,0.70664966,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1262.jpg,val,Meningioma,0.93543446,Meningioma,True,0.93543446,0.88799566,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1307.jpg,val,Meningioma,0.8559052,Meningioma,True,0.8559052,0.84042096,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1332.jpg,val,Meningioma,0.9154611,Glioma,False,0.90344834,0.9154611,Tr-/Te- prefixed
+Train/Meningioma/images/m (107).jpg,val,Meningioma,0.9768825,Meningioma,True,0.9768825,0.9117964,other filename pattern
+Train/Meningioma/images/m (120).jpg,val,Meningioma,0.89354897,Meningioma,True,0.89354897,0.8823371,other filename pattern
+Train/Meningioma/images/m (132).jpg,val,Meningioma,0.89704555,Meningioma,True,0.89704555,0.7925622,other filename pattern
+Train/Meningioma/images/m (146).jpg,val,Meningioma,0.8989636,Meningioma,True,0.8989636,0.81314534,other filename pattern
+Train/Meningioma/images/m (157).jpg,val,Meningioma,0.88323605,Meningioma,True,0.88323605,0.85468453,other filename pattern
+Train/Meningioma/images/m (174).jpg,val,Meningioma,0.93500537,Meningioma,True,0.93500537,0.88616896,other filename pattern
+Train/Meningioma/images/m (195).jpg,val,Meningioma,0.88847613,Meningioma,True,0.88847613,0.8788637,other filename pattern
+Train/Meningioma/images/m (25).jpg,val,Meningioma,0.918427,Meningioma,True,0.918427,0.7446203,other filename pattern
+Train/Meningioma/images/m (42).jpg,val,Meningioma,0.9417502,Meningioma,True,0.9417502,0.8038708,other filename pattern
+Train/Meningioma/images/m (56).jpg,val,Meningioma,0.90733266,Meningioma,True,0.90733266,0.6503769,other filename pattern
+Train/Meningioma/images/m (71).jpg,val,Meningioma,0.9421395,Meningioma,True,0.9421395,0.8591445,other filename pattern
+Train/Meningioma/images/m (96).jpg,val,Meningioma,0.7302735,Meningioma,True,0.7302735,0.7024435,other filename pattern
+Train/Meningioma/images/m (97).jpg,val,Meningioma,0.8819521,Meningioma,True,0.8819521,0.75025,other filename pattern
+Train/Meningioma/images/m1(116).jpg,val,Meningioma,0.71655583,Meningioma,True,0.71655583,0.19763973,other filename pattern
+Train/Meningioma/images/m1(137).jpg,val,Meningioma,0.6756117,No Tumor,False,0.61799383,0.6756117,other filename pattern
+Train/Meningioma/images/m1(138).jpg,val,Meningioma,0.6573663,Meningioma,True,0.6573663,0.6421174,other filename pattern
+Train/Meningioma/images/m1(167).jpg,val,Meningioma,0.6114027,No Tumor,False,0.6007494,0.6114027,other filename pattern
+Train/Meningioma/images/m1(181).jpg,val,Meningioma,0.61555785,Glioma,False,0.5844379,0.61555785,other filename pattern
+Train/Meningioma/images/m1(188).jpg,val,Meningioma,0.67919624,No Tumor,False,0.62437487,0.67919624,other filename pattern
+Train/Meningioma/images/m1(197).jpg,val,Meningioma,0.6987645,Meningioma,True,0.6987645,0.6541196,other filename pattern
+Train/Meningioma/images/m1(23).jpg,val,Meningioma,0.90698874,Meningioma,True,0.90698874,0.7562139,other filename pattern
+Train/Meningioma/images/m1(28).jpg,val,Meningioma,0.9555273,Meningioma,True,0.9555273,0.9478753,other filename pattern
+Train/Meningioma/images/m1(39).jpg,val,Meningioma,0.9165031,Meningioma,True,0.9165031,0.7904911,other filename pattern
+Train/Meningioma/images/m1(42).jpg,val,Meningioma,0.89393926,Meningioma,True,0.89393926,0.78356075,other filename pattern
+Train/Meningioma/images/m1(54).jpg,val,Meningioma,0.9443006,Meningioma,True,0.9443006,0.9237192,other filename pattern
+Train/Meningioma/images/m1(62).jpg,val,Meningioma,0.91823524,Meningioma,True,0.91823524,0.888538,other filename pattern
+Train/Meningioma/images/m1(69).jpg,val,Meningioma,0.9024704,Meningioma,True,0.9024704,0.705675,other filename pattern
+Train/Meningioma/images/m1(94).jpg,val,Meningioma,0.7332579,Meningioma,True,0.7332579,0.4197791,other filename pattern
+Train/Meningioma/images/m2 (125).jpg,val,Meningioma,0.86211455,Meningioma,True,0.86211455,0.82319486,other filename pattern
+Train/Meningioma/images/m2 (154).jpg,val,Meningioma,0.8178676,Meningioma,True,0.8178676,0.7725269,other filename pattern
+Train/Meningioma/images/m2 (52).jpg,val,Meningioma,0.8491772,Meningioma,True,0.8491772,0.7760261,other filename pattern
+Train/Meningioma/images/m3 (11).jpg,val,Meningioma,0.6548254,No Tumor,False,0.6147212,0.6548254,other filename pattern
+Train/Meningioma/images/m3 (139).jpg,val,Meningioma,0.7798409,No Tumor,False,0.74303925,0.7798409,other filename pattern
+Train/Meningioma/images/m3 (141).jpg,val,Meningioma,0.6095316,No Tumor,False,0.5556916,0.6095316,other filename pattern
+Train/Meningioma/images/m3 (175).jpg,val,Meningioma,0.8190634,Meningioma,True,0.8190634,0.60271376,other filename pattern
+Train/Meningioma/images/m3 (183).jpg,val,Meningioma,0.818564,Meningioma,True,0.818564,0.7393118,other filename pattern
+Train/Meningioma/images/m3 (2).jpg,val,Meningioma,0.7432912,Meningioma,True,0.7432912,0.71921444,other filename pattern
+Train/Meningioma/images/m3 (228).jpg,val,Meningioma,0.7864279,Glioma,False,0.7286861,0.7864279,other filename pattern
+Train/Meningioma/images/m3 (3).jpg,val,Meningioma,0.84733355,Meningioma,True,0.84733355,0.81150526,other filename pattern
+Train/Meningioma/images/m3 (38).jpg,val,Meningioma,0.8555177,Meningioma,True,0.8555177,0.7474164,other filename pattern
+Train/Meningioma/images/m3 (44).jpg,val,Meningioma,0.8464946,Meningioma,True,0.8464946,0.67839897,other filename pattern
+Train/Meningioma/images/m3 (62).jpg,val,Meningioma,0.86171997,Meningioma,True,0.86171997,0.66063577,other filename pattern
+Train/Meningioma/images/m3 (8).jpg,val,Meningioma,0.8275734,Meningioma,True,0.8275734,0.7975878,other filename pattern
+Train/No Tumor/images/8.jpg,val,No Tumor,0.83166283,No Tumor,True,0.83166283,0.78166723,other filename pattern
+Train/No Tumor/images/Tr-no_0039.jpg,val,No Tumor,0.7564859,No Tumor,True,0.7564859,0.64335585,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0071.jpg,val,No Tumor,0.63296306,Glioma,False,0.54186624,0.63296306,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0140.jpg,val,No Tumor,0.9013511,No Tumor,True,0.9013511,0.7469884,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0161.jpg,val,No Tumor,0.80744016,No Tumor,True,0.80744016,0.70839745,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0212.jpg,val,No Tumor,0.7287141,No Tumor,True,0.7287141,0.71715534,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0222.jpg,val,No Tumor,0.7453437,No Tumor,True,0.7453437,0.63522935,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0259.jpg,val,No Tumor,0.74576586,No Tumor,True,0.74576586,0.71961534,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0283.jpg,val,No Tumor,0.7961595,No Tumor,True,0.7961595,0.64062786,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0292.jpg,val,No Tumor,0.94234216,No Tumor,True,0.94234216,0.87609756,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0318.jpg,val,No Tumor,0.6322385,No Tumor,True,0.6322385,0.55884373,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0325.jpg,val,No Tumor,0.8100809,No Tumor,True,0.8100809,0.77352804,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0400.jpg,val,No Tumor,0.7278332,No Tumor,True,0.7278332,0.6790974,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0419.jpg,val,No Tumor,0.61073834,No Tumor,True,0.61073834,0.4707579,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0461.jpg,val,No Tumor,0.9838179,No Tumor,True,0.9838179,0.68136287,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0472.jpg,val,No Tumor,0.95835716,No Tumor,True,0.95835716,0.87944996,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0474.jpg,val,No Tumor,0.9852453,No Tumor,True,0.9852453,0.6843939,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0491.jpg,val,No Tumor,0.91160715,No Tumor,True,0.91160715,0.7619705,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0496.jpg,val,No Tumor,0.944457,No Tumor,True,0.944457,0.8821344,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0505.jpg,val,No Tumor,0.751766,No Tumor,True,0.751766,0.6780971,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0528.jpg,val,No Tumor,0.50452715,No Tumor,True,0.50452715,0.4902426,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0567.jpg,val,No Tumor,0.90176386,No Tumor,True,0.90176386,0.74703676,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0573.jpg,val,No Tumor,0.94230926,No Tumor,True,0.94230926,0.87594795,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0595.jpg,val,No Tumor,0.86959606,No Tumor,True,0.86959606,0.8663883,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0601.jpg,val,No Tumor,0.70680684,No Tumor,True,0.70680684,0.6785209,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0611.jpg,val,No Tumor,0.9727193,No Tumor,True,0.9727193,0.77671254,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0626.jpg,val,No Tumor,0.9842799,No Tumor,True,0.9842799,0.68016076,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0633.jpg,val,No Tumor,0.74296665,No Tumor,True,0.74296665,0.69671845,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0659.jpg,val,No Tumor,0.7460229,No Tumor,True,0.7460229,0.6715281,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0669.jpg,val,No Tumor,0.8273402,No Tumor,True,0.8273402,0.806093,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0686.jpg,val,No Tumor,0.91119903,No Tumor,True,0.91119903,0.7614251,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0690.jpg,val,No Tumor,0.74400234,No Tumor,True,0.74400234,0.6730401,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0712.jpg,val,No Tumor,0.7287955,No Tumor,True,0.7287955,0.70361024,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0761.jpg,val,No Tumor,0.7330699,No Tumor,True,0.7330699,0.62237656,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0796.jpg,val,No Tumor,0.9426171,No Tumor,True,0.9426171,0.8828908,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0809.jpg,val,No Tumor,0.7520142,No Tumor,True,0.7520142,0.6688241,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0849.jpg,val,No Tumor,0.95621103,No Tumor,True,0.95621103,0.8814601,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0910.jpg,val,No Tumor,0.9017376,No Tumor,True,0.9017376,0.746987,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0952.jpg,val,No Tumor,0.9323837,No Tumor,True,0.9323837,0.84708494,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0959.jpg,val,No Tumor,0.996818,No Tumor,True,0.996818,0.6209494,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0965.jpg,val,No Tumor,0.74642015,No Tumor,True,0.74642015,0.6357498,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0983.jpg,val,No Tumor,0.90116787,No Tumor,True,0.90116787,0.7469855,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0988.jpg,val,No Tumor,0.7295137,No Tumor,True,0.7295137,0.7028668,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1001.jpg,val,No Tumor,0.7453042,No Tumor,True,0.7453042,0.6352452,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1013.jpg,val,No Tumor,0.7466762,No Tumor,True,0.7466762,0.63644034,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1032.jpg,val,No Tumor,0.9422116,No Tumor,True,0.9422116,0.8758499,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1044.jpg,val,No Tumor,0.728181,No Tumor,True,0.728181,0.70326686,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1048.jpg,val,No Tumor,0.74630076,No Tumor,True,0.74630076,0.6361612,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1063.jpg,val,No Tumor,0.7320616,No Tumor,True,0.7320616,0.68154055,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1080.jpg,val,No Tumor,0.99757946,No Tumor,True,0.99757946,0.6785298,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1102.jpg,val,No Tumor,0.74644333,No Tumor,True,0.74644333,0.6362989,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1114.jpg,val,No Tumor,0.77980375,No Tumor,True,0.77980375,0.7242661,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1136.jpg,val,No Tumor,0.9016013,No Tumor,True,0.9016013,0.74721324,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1200.jpg,val,No Tumor,0.99764544,No Tumor,True,0.99764544,0.6785805,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1201.jpg,val,No Tumor,0.75627315,No Tumor,True,0.75627315,0.6430074,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1248.jpg,val,No Tumor,0.9111381,No Tumor,True,0.9111381,0.7620068,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1264.jpg,val,No Tumor,0.7517145,No Tumor,True,0.7517145,0.67764413,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1278.jpg,val,No Tumor,0.7458764,No Tumor,True,0.7458764,0.6983135,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1304.jpg,val,No Tumor,0.9842468,No Tumor,True,0.9842468,0.68059886,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1326.jpg,val,No Tumor,0.95834744,No Tumor,True,0.95834744,0.8795196,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1334.jpg,val,No Tumor,0.9853286,No Tumor,True,0.9853286,0.6842216,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1414.jpg,val,No Tumor,0.91566235,No Tumor,True,0.91566235,0.7492128,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1442.jpg,val,No Tumor,0.70677936,No Tumor,True,0.70677936,0.67836875,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1469.jpg,val,No Tumor,0.86958975,No Tumor,True,0.86958975,0.86640435,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1524.jpg,val,No Tumor,0.9150673,No Tumor,True,0.9150673,0.85902506,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1534.jpg,val,No Tumor,0.98401004,No Tumor,True,0.98401004,0.6817318,Tr-/Te- prefixed
+Train/No Tumor/images/image (45).jpg,val,No Tumor,0.65297115,No Tumor,True,0.65297115,0.6137585,other filename pattern
+Train/No Tumor/images/image (56).jpg,val,No Tumor,0.7235976,No Tumor,True,0.7235976,0.70566475,other filename pattern
+Train/No Tumor/images/image (57).jpg,val,No Tumor,0.91918236,No Tumor,True,0.91918236,0.82075423,other filename pattern
+Train/No Tumor/images/image (63).jpg,val,No Tumor,0.8100809,No Tumor,True,0.8100809,0.77352804,other filename pattern
+Train/No Tumor/images/image(118).jpg,val,No Tumor,0.6636476,No Tumor,True,0.6636476,0.61172074,other filename pattern
+Train/No Tumor/images/image(13).jpg,val,No Tumor,0.811765,Pituitary,False,0.8054989,0.811765,other filename pattern
+Train/No Tumor/images/image(15).jpg,val,No Tumor,0.70042187,No Tumor,True,0.70042187,0.66884565,other filename pattern
+Train/No Tumor/images/image(159).jpg,val,No Tumor,0.7544688,No Tumor,True,0.7544688,0.59026265,other filename pattern
+Train/No Tumor/images/image(166).jpg,val,No Tumor,0.72809756,No Tumor,True,0.72809756,0.7035131,other filename pattern
+Train/No Tumor/images/image(177).jpg,val,No Tumor,0.79782516,No Tumor,True,0.79782516,0.7395925,other filename pattern
+Train/No Tumor/images/image(192).jpg,val,No Tumor,0.7544707,No Tumor,True,0.7544707,0.6978539,other filename pattern
+Train/No Tumor/images/image(20).jpg,val,No Tumor,0.91918236,No Tumor,True,0.91918236,0.82075423,other filename pattern
+Train/No Tumor/images/image(217).jpg,val,No Tumor,0.7288589,No Tumor,True,0.7288589,0.7032161,other filename pattern
+Train/No Tumor/images/image(24).jpg,val,No Tumor,0.7235976,No Tumor,True,0.7235976,0.70566475,other filename pattern
+Train/No Tumor/images/image(259).jpg,val,No Tumor,0.8644958,No Tumor,True,0.8644958,0.84550047,other filename pattern
+Train/No Tumor/images/image(268).jpg,val,No Tumor,0.5121099,Glioma,False,0.4794936,0.5121099,other filename pattern
+Train/No Tumor/images/image(301).jpg,val,No Tumor,0.6884048,Pituitary,False,0.63446146,0.6884048,other filename pattern
+Train/No Tumor/images/image(313).jpg,val,No Tumor,0.6470721,Glioma,False,0.63432753,0.6470721,other filename pattern
+Train/No Tumor/images/image(323).jpg,val,No Tumor,0.6329253,No Tumor,True,0.6329253,0.58457273,other filename pattern
+Train/No Tumor/images/image(71).jpg,val,No Tumor,0.802702,No Tumor,True,0.802702,0.78700376,other filename pattern
+Train/No Tumor/images/image(74).jpg,val,No Tumor,0.7385195,No Tumor,True,0.7385195,0.5981573,other filename pattern
+Train/No Tumor/images/image(90).jpg,val,No Tumor,0.67594355,No Tumor,True,0.67594355,0.63463956,other filename pattern
+Train/No Tumor/images/image(92).jpg,val,No Tumor,0.49023026,Pituitary,False,0.45309585,0.49023026,other filename pattern
+Train/No Tumor/images/image(98).jpg,val,No Tumor,0.6794004,No Tumor,True,0.6794004,0.5568638,other filename pattern
+Train/Pituitary/images/Te-pi_0019.jpg,val,Pituitary,0.93490815,Pituitary,True,0.93490815,0.8565026,Tr-/Te- prefixed
+Train/Pituitary/images/Te-pi_0040.jpg,val,Pituitary,0.9082784,Pituitary,True,0.9082784,0.8195405,Tr-/Te- prefixed
+Train/Pituitary/images/Te-pi_0049.jpg,val,Pituitary,0.93958306,Pituitary,True,0.93958306,0.73615384,Tr-/Te- prefixed
+Train/Pituitary/images/Te-pi_0064.jpg,val,Pituitary,0.95966524,Pituitary,True,0.95966524,0.75837535,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0012.jpg,val,Pituitary,0.9526178,Pituitary,True,0.9526178,0.7225813,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0021.jpg,val,Pituitary,0.9395656,Pituitary,True,0.9395656,0.69200313,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0028.jpg,val,Pituitary,0.6286854,Pituitary,True,0.6286854,0.5207391,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0051.jpg,val,Pituitary,0.921797,Pituitary,True,0.921797,0.6518446,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0060.jpg,val,Pituitary,0.9261637,Pituitary,True,0.9261637,0.4300537,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0076.jpg,val,Pituitary,0.9384213,Pituitary,True,0.9384213,0.57433987,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0084.jpg,val,Pituitary,0.93509823,Pituitary,True,0.93509823,0.67620623,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0099.jpg,val,Pituitary,0.9348932,Pituitary,True,0.9348932,0.74210227,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0116.jpg,val,Pituitary,0.94885844,Pituitary,True,0.94885844,0.7068636,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0130.jpg,val,Pituitary,0.9455338,Pituitary,True,0.9455338,0.62189394,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0142.jpg,val,Pituitary,0.95024586,Pituitary,True,0.95024586,0.7252506,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0151.jpg,val,Pituitary,0.94955647,Pituitary,True,0.94955647,0.65548164,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0159.jpg,val,Pituitary,0.84634846,Pituitary,True,0.84634846,0.6981997,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0173.jpg,val,Pituitary,0.920776,Pituitary,True,0.920776,0.64245975,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0182.jpg,val,Pituitary,0.9506949,Pituitary,True,0.9506949,0.6694244,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0193.jpg,val,Pituitary,0.9222932,Pituitary,True,0.9222932,0.7216663,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0208.jpg,val,Pituitary,0.9508346,Pituitary,True,0.9508346,0.42560288,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0220.jpg,val,Pituitary,0.921992,Pituitary,True,0.921992,0.45825016,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0239.jpg,val,Pituitary,0.94403607,Pituitary,True,0.94403607,0.63648844,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0254.jpg,val,Pituitary,0.9602706,Pituitary,True,0.9602706,0.7464771,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0269.jpg,val,Pituitary,0.89005363,Pituitary,True,0.89005363,0.8059707,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0272.jpg,val,Pituitary,0.91273767,Pituitary,True,0.91273767,0.68580186,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0273.jpg,val,Pituitary,0.7901294,Pituitary,True,0.7901294,0.6688332,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0280.jpg,val,Pituitary,0.93213606,Pituitary,True,0.93213606,0.75558287,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0288.jpg,val,Pituitary,0.9153241,Pituitary,True,0.9153241,0.5552941,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0298.jpg,val,Pituitary,0.9340263,Pituitary,True,0.9340263,0.7140424,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0308.jpg,val,Pituitary,0.9572932,Pituitary,True,0.9572932,0.7249682,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0324.jpg,val,Pituitary,0.9468005,Pituitary,True,0.9468005,0.76493955,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0337.jpg,val,Pituitary,0.92917055,Pituitary,True,0.92917055,0.37165275,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0345.jpg,val,Pituitary,0.94521636,Pituitary,True,0.94521636,0.7990005,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0357.jpg,val,Pituitary,0.9481298,Pituitary,True,0.9481298,0.5111407,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0371.jpg,val,Pituitary,0.9181556,Pituitary,True,0.9181556,0.62551826,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0392.jpg,val,Pituitary,0.89659595,Pituitary,True,0.89659595,0.51910794,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0410.jpg,val,Pituitary,0.9504771,Pituitary,True,0.9504771,0.78921753,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0417.jpg,val,Pituitary,0.82577527,Pituitary,True,0.82577527,0.6617322,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0427.jpg,val,Pituitary,0.9357297,Pituitary,True,0.9357297,0.75172126,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0439.jpg,val,Pituitary,0.9586226,Pituitary,True,0.9586226,0.8202396,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0443.jpg,val,Pituitary,0.9182592,Pituitary,True,0.9182592,0.73441285,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0475.jpg,val,Pituitary,0.94694376,Pituitary,True,0.94694376,0.7116641,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0493.jpg,val,Pituitary,0.87987375,Pituitary,True,0.87987375,0.8572179,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0497.jpg,val,Pituitary,0.86487806,Pituitary,True,0.86487806,0.83532774,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0503.jpg,val,Pituitary,0.95838886,Pituitary,True,0.95838886,0.7206526,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0516.jpg,val,Pituitary,0.80711275,Pituitary,True,0.80711275,0.72707576,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0533.jpg,val,Pituitary,0.9596972,Pituitary,True,0.9596972,0.7514291,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0551.jpg,val,Pituitary,0.9589785,Pituitary,True,0.9589785,0.6901978,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0567.jpg,val,Pituitary,0.9659289,Pituitary,True,0.9659289,0.78447545,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0573.jpg,val,Pituitary,0.9537899,Pituitary,True,0.9537899,0.86181897,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0581.jpg,val,Pituitary,0.9586916,Pituitary,True,0.9586916,0.8476584,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0595.jpg,val,Pituitary,0.9286182,Pituitary,True,0.9286182,0.7053589,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0597.jpg,val,Pituitary,0.9249458,Pituitary,True,0.9249458,0.776456,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0607.jpg,val,Pituitary,0.96031684,Pituitary,True,0.96031684,0.76949334,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0613.jpg,val,Pituitary,0.94260913,Pituitary,True,0.94260913,0.80927455,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0625.jpg,val,Pituitary,0.9597218,Pituitary,True,0.9597218,0.7826103,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0647.jpg,val,Pituitary,0.9677115,Pituitary,True,0.9677115,0.823403,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0721.jpg,val,Pituitary,0.96278805,Pituitary,True,0.96278805,0.73931843,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0752.jpg,val,Pituitary,0.9640494,Pituitary,True,0.9640494,0.8072348,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0783.jpg,val,Pituitary,0.94687515,Pituitary,True,0.94687515,0.6711331,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0796.jpg,val,Pituitary,0.83291376,Pituitary,True,0.83291376,0.76138794,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0826.jpg,val,Pituitary,0.9130566,Pituitary,True,0.9130566,0.37314087,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0837.jpg,val,Pituitary,0.91069585,Pituitary,True,0.91069585,0.71044034,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0853.jpg,val,Pituitary,0.847139,Pituitary,True,0.847139,0.49053946,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0870.jpg,val,Pituitary,0.53408396,Pituitary,True,0.53408396,0.45655212,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0886.jpg,val,Pituitary,0.55281746,No Tumor,False,0.5332136,0.55281746,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0909.jpg,val,Pituitary,0.9019576,Pituitary,True,0.9019576,0.5419104,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0919.jpg,val,Pituitary,0.8780661,Pituitary,True,0.8780661,0.7798083,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0975.jpg,val,Pituitary,0.8480205,Pituitary,True,0.8480205,0.8194507,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0991.jpg,val,Pituitary,0.7431202,Pituitary,True,0.7431202,0.7226695,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1036.jpg,val,Pituitary,0.8610135,Pituitary,True,0.8610135,0.6659198,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1081.jpg,val,Pituitary,0.9556467,Pituitary,True,0.9556467,0.80776227,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1096.jpg,val,Pituitary,0.9698673,Pituitary,True,0.9698673,0.76869017,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1099.jpg,val,Pituitary,0.84897816,Pituitary,True,0.84897816,0.7667979,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1122.jpg,val,Pituitary,0.9073159,Pituitary,True,0.9073159,0.8060391,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1186.jpg,val,Pituitary,0.9403313,Pituitary,True,0.9403313,0.81611943,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1232.jpg,val,Pituitary,0.951086,Pituitary,True,0.951086,0.6549268,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1234.jpg,val,Pituitary,0.80706495,Pituitary,True,0.80706495,0.72233766,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1308.jpg,val,Pituitary,0.4952733,Pituitary,True,0.4952733,0.4646054,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1346.jpg,val,Pituitary,0.5982614,Pituitary,True,0.5982614,0.5628022,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1376.jpg,val,Pituitary,0.9341096,Pituitary,True,0.9341096,0.565596,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1385.jpg,val,Pituitary,0.8931074,Pituitary,True,0.8931074,0.43565485,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1444.jpg,val,Pituitary,0.5085566,Pituitary,True,0.5085566,0.48497808,Tr-/Te- prefixed
+Train/Pituitary/images/p (104).jpg,val,Pituitary,0.9652882,Pituitary,True,0.9652882,0.7868547,other filename pattern
+Train/Pituitary/images/p (107).jpg,val,Pituitary,0.7982918,Meningioma,False,0.7964911,0.7982918,other filename pattern
+Train/Pituitary/images/p (13).jpg,val,Pituitary,0.95932835,Pituitary,True,0.95932835,0.7651891,other filename pattern
+Train/Pituitary/images/p (151).jpg,val,Pituitary,0.92636156,Pituitary,True,0.92636156,0.66566926,other filename pattern
+Train/Pituitary/images/p (158).jpg,val,Pituitary,0.9296484,Pituitary,True,0.9296484,0.46429166,other filename pattern
+Train/Pituitary/images/p (179).jpg,val,Pituitary,0.90814495,Pituitary,True,0.90814495,0.46861076,other filename pattern
+Train/Pituitary/images/p (199).jpg,val,Pituitary,0.57917255,Pituitary,True,0.57917255,0.42161238,other filename pattern
+Train/Pituitary/images/p (206).jpg,val,Pituitary,0.9409509,Pituitary,True,0.9409509,0.7225915,other filename pattern
+Train/Pituitary/images/p (222).jpg,val,Pituitary,0.9531276,Pituitary,True,0.9531276,0.6575005,other filename pattern
+Train/Pituitary/images/p (25).jpg,val,Pituitary,0.9435757,Pituitary,True,0.9435757,0.7695294,other filename pattern
+Train/Pituitary/images/p (274).jpg,val,Pituitary,0.94952464,Pituitary,True,0.94952464,0.6940303,other filename pattern
+Train/Pituitary/images/p (295).jpg,val,Pituitary,0.9131894,Pituitary,True,0.9131894,0.4267006,other filename pattern
+Train/Pituitary/images/p (304).jpg,val,Pituitary,0.9460183,Pituitary,True,0.9460183,0.64398205,other filename pattern
+Train/Pituitary/images/p (317).jpg,val,Pituitary,0.9418574,Pituitary,True,0.9418574,0.65517277,other filename pattern
+Train/Pituitary/images/p (325).jpg,val,Pituitary,0.9425939,Pituitary,True,0.9425939,0.5462746,other filename pattern
+Train/Pituitary/images/p (372).jpg,val,Pituitary,0.8922328,Pituitary,True,0.8922328,0.64683104,other filename pattern
+Train/Pituitary/images/p (373).jpg,val,Pituitary,0.84122515,Pituitary,True,0.84122515,0.61751866,other filename pattern
+Train/Pituitary/images/p (401).jpg,val,Pituitary,0.9292905,Pituitary,True,0.9292905,0.7033406,other filename pattern
+Train/Pituitary/images/p (417).jpg,val,Pituitary,0.94558686,Pituitary,True,0.94558686,0.50987554,other filename pattern
+Train/Pituitary/images/p (437).jpg,val,Pituitary,0.8886518,Pituitary,True,0.8886518,0.35595062,other filename pattern
+Train/Pituitary/images/p (448).jpg,val,Pituitary,0.9134888,Pituitary,True,0.9134888,0.4313066,other filename pattern
+Train/Pituitary/images/p (465).jpg,val,Pituitary,0.9314818,Pituitary,True,0.9314818,0.5229645,other filename pattern
+Train/Pituitary/images/p (476).jpg,val,Pituitary,0.75802326,Pituitary,True,0.75802326,0.6441577,other filename pattern
+Train/Pituitary/images/p (49).jpg,val,Pituitary,0.8706239,Pituitary,True,0.8706239,0.71336704,other filename pattern
+Train/Pituitary/images/p (501).jpg,val,Pituitary,0.9469952,Pituitary,True,0.9469952,0.7363812,other filename pattern
+Train/Pituitary/images/p (509).jpg,val,Pituitary,0.9592895,Pituitary,True,0.9592895,0.750083,other filename pattern
+Train/Pituitary/images/p (520).jpg,val,Pituitary,0.84119815,Pituitary,True,0.84119815,0.7359945,other filename pattern
+Train/Pituitary/images/p (533).jpg,val,Pituitary,0.9427485,Pituitary,True,0.9427485,0.74220484,other filename pattern
+Train/Pituitary/images/p (556).jpg,val,Pituitary,0.9617739,Pituitary,True,0.9617739,0.76997167,other filename pattern
+Train/Pituitary/images/p (571).jpg,val,Pituitary,0.94463634,Pituitary,True,0.94463634,0.6015326,other filename pattern
+Train/Pituitary/images/p (581).jpg,val,Pituitary,0.9413528,Pituitary,True,0.9413528,0.5560775,other filename pattern
+Train/Pituitary/images/p (591).jpg,val,Pituitary,0.90658647,Pituitary,True,0.90658647,0.47992352,other filename pattern
+Train/Pituitary/images/p (60).jpg,val,Pituitary,0.94391185,Pituitary,True,0.94391185,0.77509135,other filename pattern
+Train/Pituitary/images/p (623).jpg,val,Pituitary,0.9185291,Pituitary,True,0.9185291,0.7922219,other filename pattern
+Train/Pituitary/images/p (643).jpg,val,Pituitary,0.9430384,Pituitary,True,0.9430384,0.69681937,other filename pattern
+Train/Pituitary/images/p (657).jpg,val,Pituitary,0.80908996,Pituitary,True,0.80908996,0.6714201,other filename pattern
+Train/Pituitary/images/p (690).jpg,val,Pituitary,0.8739661,Pituitary,True,0.8739661,0.78330195,other filename pattern
+Train/Pituitary/images/p (7).jpg,val,Pituitary,0.9442406,Pituitary,True,0.9442406,0.7155354,other filename pattern
+Train/Pituitary/images/p (728).jpg,val,Pituitary,0.94673914,Pituitary,True,0.94673914,0.7679659,other filename pattern
+Train/Pituitary/images/p (733).jpg,val,Pituitary,0.93211615,Pituitary,True,0.93211615,0.79469687,other filename pattern
+Train/Pituitary/images/p (748).jpg,val,Pituitary,0.94651514,Pituitary,True,0.94651514,0.7482691,other filename pattern
+Train/Pituitary/images/p (755).jpg,val,Pituitary,0.9329412,Pituitary,True,0.9329412,0.74240303,other filename pattern
+Train/Pituitary/images/p (761).jpg,val,Pituitary,0.95523006,Pituitary,True,0.95523006,0.7645848,other filename pattern
+Train/Pituitary/images/p (771).jpg,val,Pituitary,0.967206,Pituitary,True,0.967206,0.78752387,other filename pattern
+Train/Pituitary/images/p (781).jpg,val,Pituitary,0.7419406,Pituitary,True,0.7419406,0.66989124,other filename pattern
+Train/Pituitary/images/p (788).jpg,val,Pituitary,0.95908374,Pituitary,True,0.95908374,0.75684845,other filename pattern
+Train/Pituitary/images/p (796).jpg,val,Pituitary,0.9654308,Pituitary,True,0.9654308,0.77653044,other filename pattern
+Train/Pituitary/images/p (809).jpg,val,Pituitary,0.9629718,Pituitary,True,0.9629718,0.7274425,other filename pattern
+Train/Pituitary/images/p (83).jpg,val,Pituitary,0.94776773,Pituitary,True,0.94776773,0.64572155,other filename pattern
+Train/Pituitary/images/p (93).jpg,val,Pituitary,0.94675153,Pituitary,True,0.94675153,0.78030634,other filename pattern
+Val/Glioma/images/Tr-gl_0202.jpg,val,Glioma,0.9855081,Glioma,True,0.9855081,0.90337044,Tr-/Te- prefixed
+Val/Glioma/images/Tr-gl_0327.jpg,val,Glioma,0.9152841,Glioma,True,0.9152841,0.8499101,Tr-/Te- prefixed
+Val/Glioma/images/Tr-gl_0474.jpg,val,Glioma,0.9244908,Glioma,True,0.9244908,0.86250895,Tr-/Te- prefixed
+Val/Glioma/images/Tr-gl_0505.jpg,val,Glioma,0.89713746,Glioma,True,0.89713746,0.82994485,Tr-/Te- prefixed
+Val/Glioma/images/Tr-gl_0865.jpg,val,Glioma,0.89749366,Glioma,True,0.89749366,0.79879177,Tr-/Te- prefixed
+Val/Glioma/images/Tr-gl_1148.jpg,val,Glioma,0.9373389,Glioma,True,0.9373389,0.8734968,Tr-/Te- prefixed
+Val/Glioma/images/Tr-gl_1264.jpg,val,Glioma,0.78975606,Glioma,True,0.78975606,0.6512508,Tr-/Te- prefixed
+Val/Glioma/images/gg (135).jpg,val,Glioma,0.91081285,Glioma,True,0.91081285,0.8171358,other filename pattern
+Val/Glioma/images/gg (22).jpg,val,Glioma,0.891711,Glioma,True,0.891711,0.8640103,other filename pattern
+Val/Glioma/images/gg (257).jpg,val,Glioma,0.7961409,Glioma,True,0.7961409,0.7092913,other filename pattern
+Val/Glioma/images/gg (27).jpg,val,Glioma,0.8410017,Glioma,True,0.8410017,0.78640723,other filename pattern
+Val/Glioma/images/gg (310).jpg,val,Glioma,0.9114466,Glioma,True,0.9114466,0.8023984,other filename pattern
+Val/Glioma/images/gg (362).jpg,val,Glioma,0.84820276,Meningioma,False,0.8121554,0.84820276,other filename pattern
+Val/Glioma/images/gg (434).jpg,val,Glioma,0.83035207,Glioma,True,0.83035207,0.80228,other filename pattern
+Val/Glioma/images/gg (493).jpg,val,Glioma,0.96211946,Glioma,True,0.96211946,0.87069744,other filename pattern
+Val/Glioma/images/gg (536).jpg,val,Glioma,0.90766114,Meningioma,False,0.88049483,0.90766114,other filename pattern
+Val/Glioma/images/gg (57).jpg,val,Glioma,0.9398736,Glioma,True,0.9398736,0.7521745,other filename pattern
+Val/Glioma/images/gg (72).jpg,val,Glioma,0.92271173,Glioma,True,0.92271173,0.81358427,other filename pattern
+Val/Meningioma/images/Tr-me_0379.jpg,val,Meningioma,0.9077222,Meningioma,True,0.9077222,0.88069195,Tr-/Te- prefixed
+Val/Meningioma/images/Tr-me_1116.jpg,val,Meningioma,0.8176697,Meningioma,True,0.8176697,0.69374895,Tr-/Te- prefixed
+Val/Meningioma/images/Tr-me_1187.jpg,val,Meningioma,0.87756574,Meningioma,True,0.87756574,0.7655383,Tr-/Te- prefixed
+Val/Meningioma/images/Tr-me_1223.jpg,val,Meningioma,0.79383475,Glioma,False,0.721444,0.79383475,Tr-/Te- prefixed
+Val/Meningioma/images/Tr-me_1308.jpg,val,Meningioma,0.8769497,Meningioma,True,0.8769497,0.839398,Tr-/Te- prefixed
+Val/Meningioma/images/m (15).jpg,val,Meningioma,0.93697906,Meningioma,True,0.93697906,0.84342194,other filename pattern
+Val/Meningioma/images/m (65).jpg,val,Meningioma,0.9130774,Meningioma,True,0.9130774,0.83497584,other filename pattern
+Val/Meningioma/images/m1(56).jpg,val,Meningioma,0.9305013,Glioma,False,0.9019058,0.9305013,other filename pattern
+Val/Meningioma/images/m3 (150).jpg,val,Meningioma,0.9179095,Meningioma,True,0.9179095,0.7795533,other filename pattern
+Val/Meningioma/images/m3 (35).jpg,val,Meningioma,0.80401313,Glioma,False,0.78610945,0.80401313,other filename pattern
+Val/No Tumor/images/Tr-no_0401.jpg,val,No Tumor,0.7266297,No Tumor,True,0.7266297,0.67887807,Tr-/Te- prefixed
+Val/No Tumor/images/Tr-no_0513.jpg,val,No Tumor,0.69024944,No Tumor,True,0.69024944,0.65857595,Tr-/Te- prefixed
+Val/No Tumor/images/image (7).jpg,val,No Tumor,0.802703,No Tumor,True,0.802703,0.7873717,other filename pattern
+Val/No Tumor/images/image(254).jpg,val,No Tumor,0.9438495,No Tumor,True,0.9438495,0.67170703,other filename pattern
+Val/No Tumor/images/image(65).jpg,val,No Tumor,0.67723787,Meningioma,False,0.6290643,0.67723787,other filename pattern
+Val/Pituitary/images/Tr-pi_0833.jpg,val,Pituitary,0.9455184,Pituitary,True,0.9455184,0.7142429,Tr-/Te- prefixed
+Val/Pituitary/images/Tr-pi_0920.jpg,val,Pituitary,0.8927989,Pituitary,True,0.8927989,0.74074215,Tr-/Te- prefixed
+Val/Pituitary/images/Tr-pi_0984.jpg,val,Pituitary,0.65658873,Pituitary,True,0.65658873,0.63465995,Tr-/Te- prefixed
+Val/Pituitary/images/Tr-pi_1097.jpg,val,Pituitary,0.9255922,Pituitary,True,0.9255922,0.760325,Tr-/Te- prefixed
+Val/Pituitary/images/Tr-pi_1231.jpg,val,Pituitary,0.8779447,Pituitary,True,0.8779447,0.6563074,Tr-/Te- prefixed
+Val/Pituitary/images/Tr-pi_1267.jpg,val,Pituitary,0.90490884,Pituitary,True,0.90490884,0.7846664,Tr-/Te- prefixed
+Val/Pituitary/images/Tr-pi_1379.jpg,val,Pituitary,0.6388866,Meningioma,False,0.6126431,0.6388866,Tr-/Te- prefixed
+Val/Pituitary/images/Tr-pi_1442.jpg,val,Pituitary,0.50119483,Glioma,False,0.49270222,0.50119483,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0015.jpg,test,Glioma,0.91106486,Glioma,True,0.91106486,0.85053045,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0027.jpg,test,Glioma,0.91074586,Glioma,True,0.91074586,0.8564859,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0040.jpg,test,Glioma,0.94379294,Glioma,True,0.94379294,0.78407663,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0055.jpg,test,Glioma,0.92009366,Glioma,True,0.92009366,0.8783154,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0072.jpg,test,Glioma,0.96619457,Glioma,True,0.96619457,0.90040755,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0084.jpg,test,Glioma,0.8506317,Glioma,True,0.8506317,0.7889808,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0116.jpg,test,Glioma,0.9631599,Glioma,True,0.9631599,0.82219845,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0146.jpg,test,Glioma,0.92447335,Glioma,True,0.92447335,0.83896375,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0151.jpg,test,Glioma,0.7965269,Meningioma,False,0.7851076,0.7965269,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0195.jpg,test,Glioma,0.87190646,Glioma,True,0.87190646,0.79962206,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0224.jpg,test,Glioma,0.81575334,Glioma,True,0.81575334,0.71482885,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0249.jpg,test,Glioma,0.92148054,Glioma,True,0.92148054,0.83791584,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0261.jpg,test,Glioma,0.83180374,Glioma,True,0.83180374,0.7070262,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0272.jpg,test,Glioma,0.6887953,Pituitary,False,0.68006337,0.6887953,Tr-/Te- prefixed
+Train/Glioma/images/Te-gl_0288.jpg,test,Glioma,0.9626171,Glioma,True,0.9626171,0.8874551,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0020.jpg,test,Glioma,0.90848005,Glioma,True,0.90848005,0.76532716,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0032.jpg,test,Glioma,0.9092767,Glioma,True,0.9092767,0.80049217,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0047.jpg,test,Glioma,0.79007214,Glioma,True,0.79007214,0.6388321,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0064.jpg,test,Glioma,0.92255926,Glioma,True,0.92255926,0.8655231,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0094.jpg,test,Glioma,0.92805016,Glioma,True,0.92805016,0.82489896,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0111.jpg,test,Glioma,0.94348204,Glioma,True,0.94348204,0.8168888,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0122.jpg,test,Glioma,0.87366647,Glioma,True,0.87366647,0.82694036,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0137.jpg,test,Glioma,0.9637142,Glioma,True,0.9637142,0.89296186,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0164.jpg,test,Glioma,0.95626765,Glioma,True,0.95626765,0.7551858,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0175.jpg,test,Glioma,0.9102216,Glioma,True,0.9102216,0.84508777,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0207.jpg,test,Glioma,0.8978248,Glioma,True,0.8978248,0.8674576,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0208.jpg,test,Glioma,0.90083295,Glioma,True,0.90083295,0.86743355,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0267.jpg,test,Glioma,0.9446212,Glioma,True,0.9446212,0.8797789,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0313.jpg,test,Glioma,0.91472745,Glioma,True,0.91472745,0.8462678,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0315.jpg,test,Glioma,0.90488416,Glioma,True,0.90488416,0.8604663,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0367.jpg,test,Glioma,0.9595463,Glioma,True,0.9595463,0.83344626,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0379.jpg,test,Glioma,0.9709997,Glioma,True,0.9709997,0.8134521,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0427.jpg,test,Glioma,0.9526831,Glioma,True,0.9526831,0.791713,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0439.jpg,test,Glioma,0.9477866,Glioma,True,0.9477866,0.882889,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0470.jpg,test,Glioma,0.9245676,Glioma,True,0.9245676,0.77091396,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0478.jpg,test,Glioma,0.92164904,Glioma,True,0.92164904,0.8066633,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0487.jpg,test,Glioma,0.95129883,Glioma,True,0.95129883,0.80084723,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0502.jpg,test,Glioma,0.9452561,Glioma,True,0.9452561,0.82362115,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0544.jpg,test,Glioma,0.95853186,Glioma,True,0.95853186,0.8658875,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0553.jpg,test,Glioma,0.90286684,Glioma,True,0.90286684,0.88791394,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0587.jpg,test,Glioma,0.92666155,Glioma,True,0.92666155,0.76354563,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0592.jpg,test,Glioma,0.9439833,Glioma,True,0.9439833,0.8434796,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0615.jpg,test,Glioma,0.8808172,Meningioma,False,0.8330673,0.8808172,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0632.jpg,test,Glioma,0.89100033,Glioma,True,0.89100033,0.8331848,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0649.jpg,test,Glioma,0.84832025,Glioma,True,0.84832025,0.80888754,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0652.jpg,test,Glioma,0.8783182,Glioma,True,0.8783182,0.7806685,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0660.jpg,test,Glioma,0.8902984,Glioma,True,0.8902984,0.76222533,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0735.jpg,test,Glioma,0.8192779,Glioma,True,0.8192779,0.8109464,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0806.jpg,test,Glioma,0.8979,Glioma,True,0.8979,0.8253548,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0822.jpg,test,Glioma,0.93193847,Glioma,True,0.93193847,0.8339183,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0824.jpg,test,Glioma,0.93272156,Glioma,True,0.93272156,0.8301364,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0881.jpg,test,Glioma,0.8649682,Glioma,True,0.8649682,0.8519235,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0918.jpg,test,Glioma,0.82024765,Glioma,True,0.82024765,0.68196815,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0946.jpg,test,Glioma,0.8587686,Glioma,True,0.8587686,0.79611135,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0962.jpg,test,Glioma,0.8652007,Glioma,True,0.8652007,0.7023177,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_0989.jpg,test,Glioma,0.82579553,Glioma,True,0.82579553,0.64528793,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1004.jpg,test,Glioma,0.8827365,Glioma,True,0.8827365,0.6990826,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1015.jpg,test,Glioma,0.8665774,Glioma,True,0.8665774,0.7657645,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1023.jpg,test,Glioma,0.8682694,Glioma,True,0.8682694,0.753055,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1040.jpg,test,Glioma,0.6608402,Glioma,True,0.6608402,0.64128506,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1069.jpg,test,Glioma,0.71480334,Glioma,True,0.71480334,0.7127528,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1104.jpg,test,Glioma,0.78127563,Glioma,True,0.78127563,0.71949565,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1136.jpg,test,Glioma,0.90695715,Glioma,True,0.90695715,0.8227131,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1150.jpg,test,Glioma,0.90331197,Glioma,True,0.90331197,0.89552104,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1163.jpg,test,Glioma,0.91834784,Glioma,True,0.91834784,0.7955588,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1173.jpg,test,Glioma,0.8202928,Meningioma,False,0.81974304,0.8202928,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1178.jpg,test,Glioma,0.9323629,Glioma,True,0.9323629,0.83389956,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1189.jpg,test,Glioma,0.92136395,Glioma,True,0.92136395,0.8871837,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1201.jpg,test,Glioma,0.92956513,Glioma,True,0.92956513,0.84822506,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1202.jpg,test,Glioma,0.9398037,Glioma,True,0.9398037,0.85221994,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1232.jpg,test,Glioma,0.75564617,Meningioma,False,0.6931375,0.75564617,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1262.jpg,test,Glioma,0.5668816,Meningioma,False,0.53607,0.5668816,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1266.jpg,test,Glioma,0.7909439,Glioma,True,0.7909439,0.78092736,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1302.jpg,test,Glioma,0.9516894,Glioma,True,0.9516894,0.888917,Tr-/Te- prefixed
+Train/Glioma/images/Tr-gl_1304.jpg,test,Glioma,0.88763034,Meningioma,False,0.8841152,0.88763034,Tr-/Te- prefixed
+Train/Glioma/images/gg (107).jpg,test,Glioma,0.8157184,Glioma,True,0.8157184,0.74162686,other filename pattern
+Train/Glioma/images/gg (112).jpg,test,Glioma,0.76398706,Glioma,True,0.76398706,0.69011885,other filename pattern
+Train/Glioma/images/gg (12).jpg,test,Glioma,0.95802814,Glioma,True,0.95802814,0.84308285,other filename pattern
+Train/Glioma/images/gg (126).jpg,test,Glioma,0.76114994,Glioma,True,0.76114994,0.74355066,other filename pattern
+Train/Glioma/images/gg (133).jpg,test,Glioma,0.92567855,Glioma,True,0.92567855,0.82793266,other filename pattern
+Train/Glioma/images/gg (156).jpg,test,Glioma,0.8290878,Meningioma,False,0.8264859,0.8290878,other filename pattern
+Train/Glioma/images/gg (161).jpg,test,Glioma,0.9052358,Glioma,True,0.9052358,0.6537154,other filename pattern
+Train/Glioma/images/gg (169).jpg,test,Glioma,0.9178648,Glioma,True,0.9178648,0.7435768,other filename pattern
+Train/Glioma/images/gg (172).jpg,test,Glioma,0.88595575,Glioma,True,0.88595575,0.7470037,other filename pattern
+Train/Glioma/images/gg (188).jpg,test,Glioma,0.8523845,Glioma,True,0.8523845,0.70933765,other filename pattern
+Train/Glioma/images/gg (192).jpg,test,Glioma,0.91290224,Glioma,True,0.91290224,0.74309576,other filename pattern
+Train/Glioma/images/gg (200).jpg,test,Glioma,0.8488685,Glioma,True,0.8488685,0.72821146,other filename pattern
+Train/Glioma/images/gg (208).jpg,test,Glioma,0.8655616,Glioma,True,0.8655616,0.70289093,other filename pattern
+Train/Glioma/images/gg (214).jpg,test,Glioma,0.9500836,Glioma,True,0.9500836,0.7464482,other filename pattern
+Train/Glioma/images/gg (225).jpg,test,Glioma,0.7992681,Glioma,True,0.7992681,0.76507574,other filename pattern
+Train/Glioma/images/gg (232).jpg,test,Glioma,0.9127526,Glioma,True,0.9127526,0.69714665,other filename pattern
+Train/Glioma/images/gg (243).jpg,test,Glioma,0.8280621,Meningioma,False,0.821638,0.8280621,other filename pattern
+Train/Glioma/images/gg (250).jpg,test,Glioma,0.82954663,Glioma,True,0.82954663,0.76466787,other filename pattern
+Train/Glioma/images/gg (259).jpg,test,Glioma,0.8879974,Glioma,True,0.8879974,0.7352745,other filename pattern
+Train/Glioma/images/gg (267).jpg,test,Glioma,0.77501273,Glioma,True,0.77501273,0.7256721,other filename pattern
+Train/Glioma/images/gg (276).jpg,test,Glioma,0.9539936,Glioma,True,0.9539936,0.83194876,other filename pattern
+Train/Glioma/images/gg (298).jpg,test,Glioma,0.90286684,Glioma,True,0.90286684,0.7912011,other filename pattern
+Train/Glioma/images/gg (300).jpg,test,Glioma,0.8377447,Glioma,True,0.8377447,0.78385633,other filename pattern
+Train/Glioma/images/gg (313).jpg,test,Glioma,0.88747424,Glioma,True,0.88747424,0.80090314,other filename pattern
+Train/Glioma/images/gg (327).jpg,test,Glioma,0.93330145,Glioma,True,0.93330145,0.8335447,other filename pattern
+Train/Glioma/images/gg (343).jpg,test,Glioma,0.8049541,Meningioma,False,0.8000461,0.8049541,other filename pattern
+Train/Glioma/images/gg (346).jpg,test,Glioma,0.8908603,Glioma,True,0.8908603,0.7699372,other filename pattern
+Train/Glioma/images/gg (365).jpg,test,Glioma,0.739832,Meningioma,False,0.6204652,0.739832,other filename pattern
+Train/Glioma/images/gg (373).jpg,test,Glioma,0.93510437,Glioma,True,0.93510437,0.80614144,other filename pattern
+Train/Glioma/images/gg (382).jpg,test,Glioma,0.94481546,Glioma,True,0.94481546,0.78224605,other filename pattern
+Train/Glioma/images/gg (389).jpg,test,Glioma,0.9249286,Glioma,True,0.9249286,0.82334876,other filename pattern
+Train/Glioma/images/gg (404).jpg,test,Glioma,0.8218838,Meningioma,False,0.80130506,0.8218838,other filename pattern
+Train/Glioma/images/gg (411).jpg,test,Glioma,0.94291836,Glioma,True,0.94291836,0.74321365,other filename pattern
+Train/Glioma/images/gg (42).jpg,test,Glioma,0.8951701,Glioma,True,0.8951701,0.75498277,other filename pattern
+Train/Glioma/images/gg (431).jpg,test,Glioma,0.84385604,Glioma,True,0.84385604,0.7439834,other filename pattern
+Train/Glioma/images/gg (439).jpg,test,Glioma,0.9641211,Glioma,True,0.9641211,0.7974522,other filename pattern
+Train/Glioma/images/gg (449).jpg,test,Glioma,0.91860497,Glioma,True,0.91860497,0.80833125,other filename pattern
+Train/Glioma/images/gg (455).jpg,test,Glioma,0.8945333,Glioma,True,0.8945333,0.5761031,other filename pattern
+Train/Glioma/images/gg (463).jpg,test,Glioma,0.82666653,Meningioma,False,0.79118675,0.82666653,other filename pattern
+Train/Glioma/images/gg (471).jpg,test,Glioma,0.85809124,Glioma,True,0.85809124,0.73140657,other filename pattern
+Train/Glioma/images/gg (484).jpg,test,Glioma,0.960495,Glioma,True,0.960495,0.83135945,other filename pattern
+Train/Glioma/images/gg (497).jpg,test,Glioma,0.8884727,Meningioma,False,0.88804734,0.8884727,other filename pattern
+Train/Glioma/images/gg (501).jpg,test,Glioma,0.86410004,Glioma,True,0.86410004,0.8334724,other filename pattern
+Train/Glioma/images/gg (517).jpg,test,Glioma,0.9077266,Glioma,True,0.9077266,0.78505826,other filename pattern
+Train/Glioma/images/gg (53).jpg,test,Glioma,0.8438575,Glioma,True,0.8438575,0.7311434,other filename pattern
+Train/Glioma/images/gg (552).jpg,test,Glioma,0.9043358,Glioma,True,0.9043358,0.8776783,other filename pattern
+Train/Glioma/images/gg (563).jpg,test,Glioma,0.89408046,Glioma,True,0.89408046,0.8542174,other filename pattern
+Train/Glioma/images/gg (579).jpg,test,Glioma,0.9484589,Glioma,True,0.9484589,0.8636703,other filename pattern
+Train/Glioma/images/gg (587).jpg,test,Glioma,0.96207356,Glioma,True,0.96207356,0.8464562,other filename pattern
+Train/Glioma/images/gg (588).jpg,test,Glioma,0.9697561,Glioma,True,0.9697561,0.8476158,other filename pattern
+Train/Glioma/images/gg (599).jpg,test,Glioma,0.9164336,Glioma,True,0.9164336,0.8808587,other filename pattern
+Train/Glioma/images/gg (610).jpg,test,Glioma,0.9283749,Glioma,True,0.9283749,0.8490708,other filename pattern
+Train/Glioma/images/gg (616).jpg,test,Glioma,0.9711984,Glioma,True,0.9711984,0.79217774,other filename pattern
+Train/Glioma/images/gg (619).jpg,test,Glioma,0.9358099,Glioma,True,0.9358099,0.8566052,other filename pattern
+Train/Glioma/images/gg (639).jpg,test,Glioma,0.93073076,Glioma,True,0.93073076,0.8305789,other filename pattern
+Train/Glioma/images/gg (65).jpg,test,Glioma,0.902679,Glioma,True,0.902679,0.70341164,other filename pattern
+Train/Glioma/images/gg (652).jpg,test,Glioma,0.9470025,Glioma,True,0.9470025,0.7795451,other filename pattern
+Train/Glioma/images/gg (670).jpg,test,Glioma,0.90317005,Glioma,True,0.90317005,0.878858,other filename pattern
+Train/Glioma/images/gg (678).jpg,test,Glioma,0.94762665,Glioma,True,0.94762665,0.8187154,other filename pattern
+Train/Glioma/images/gg (685).jpg,test,Glioma,0.92350155,Glioma,True,0.92350155,0.82796633,other filename pattern
+Train/Glioma/images/gg (699).jpg,test,Glioma,0.9605941,Glioma,True,0.9605941,0.85787785,other filename pattern
+Train/Glioma/images/gg (706).jpg,test,Glioma,0.89824456,Glioma,True,0.89824456,0.8220713,other filename pattern
+Train/Glioma/images/gg (710).jpg,test,Glioma,0.9141096,Glioma,True,0.9141096,0.860495,other filename pattern
+Train/Glioma/images/gg (723).jpg,test,Glioma,0.7733134,Meningioma,False,0.70500267,0.7733134,other filename pattern
+Train/Glioma/images/gg (732).jpg,test,Glioma,0.9467011,Glioma,True,0.9467011,0.88785875,other filename pattern
+Train/Glioma/images/gg (738).jpg,test,Glioma,0.9718329,Glioma,True,0.9718329,0.87223697,other filename pattern
+Train/Glioma/images/gg (75).jpg,test,Glioma,0.9182394,Glioma,True,0.9182394,0.76858044,other filename pattern
+Train/Glioma/images/gg (755).jpg,test,Glioma,0.95679253,Glioma,True,0.95679253,0.84017015,other filename pattern
+Train/Glioma/images/gg (765).jpg,test,Glioma,0.9242102,Glioma,True,0.9242102,0.83001655,other filename pattern
+Train/Glioma/images/gg (771).jpg,test,Glioma,0.88966787,Glioma,True,0.88966787,0.7953221,other filename pattern
+Train/Glioma/images/gg (775).jpg,test,Glioma,0.9157499,Glioma,True,0.9157499,0.85205394,other filename pattern
+Train/Glioma/images/gg (791).jpg,test,Glioma,0.80435514,Glioma,True,0.80435514,0.79600084,other filename pattern
+Train/Glioma/images/gg (803).jpg,test,Glioma,0.9034598,Glioma,True,0.9034598,0.8449094,other filename pattern
+Train/Glioma/images/gg (809).jpg,test,Glioma,0.9506082,Glioma,True,0.9506082,0.827319,other filename pattern
+Train/Glioma/images/gg (818).jpg,test,Glioma,0.91017437,Glioma,True,0.91017437,0.8513709,other filename pattern
+Train/Glioma/images/gg (85).jpg,test,Glioma,0.84079635,Glioma,True,0.84079635,0.7470877,other filename pattern
+Train/Meningioma/images/Tr-meTr_0009.jpg,test,Meningioma,0.8864601,Meningioma,True,0.8864601,0.863464,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0025.jpg,test,Meningioma,0.95979536,Meningioma,True,0.95979536,0.9012369,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0040.jpg,test,Meningioma,0.88670707,Meningioma,True,0.88670707,0.8356727,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0046.jpg,test,Meningioma,0.9340883,Meningioma,True,0.9340883,0.8654623,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0048.jpg,test,Meningioma,0.91008466,Meningioma,True,0.91008466,0.8461879,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0065.jpg,test,Meningioma,0.922042,Glioma,False,0.90807277,0.922042,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0071.jpg,test,Meningioma,0.8901479,Meningioma,True,0.8901479,0.8726874,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0087.jpg,test,Meningioma,0.9123912,Meningioma,True,0.9123912,0.8269306,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0100.jpg,test,Meningioma,0.9411515,Meningioma,True,0.9411515,0.8204168,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0113.jpg,test,Meningioma,0.88303614,Meningioma,True,0.88303614,0.8408525,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0119.jpg,test,Meningioma,0.93033993,Meningioma,True,0.93033993,0.7723398,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0132.jpg,test,Meningioma,0.91437006,Meningioma,True,0.91437006,0.77964914,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0145.jpg,test,Meningioma,0.93511903,Meningioma,True,0.93511903,0.86075544,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0161.jpg,test,Meningioma,0.9203623,Meningioma,True,0.9203623,0.85782236,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0200.jpg,test,Meningioma,0.5972257,Glioma,False,0.5518524,0.5972257,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0206.jpg,test,Meningioma,0.67818797,Glioma,False,0.6081887,0.67818797,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0236.jpg,test,Meningioma,0.5114344,Glioma,False,0.48507994,0.5114344,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0238.jpg,test,Meningioma,0.95316035,Meningioma,True,0.95316035,0.86124444,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0263.jpg,test,Meningioma,0.6322391,Pituitary,False,0.5856966,0.6322391,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0343.jpg,test,Meningioma,0.9298185,Meningioma,True,0.9298185,0.9127784,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0350.jpg,test,Meningioma,0.9179579,Meningioma,True,0.9179579,0.84878993,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0373.jpg,test,Meningioma,0.9052419,Meningioma,True,0.9052419,0.75624996,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0380.jpg,test,Meningioma,0.92771244,Meningioma,True,0.92771244,0.85625017,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0390.jpg,test,Meningioma,0.90662575,Meningioma,True,0.90662575,0.8289201,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0396.jpg,test,Meningioma,0.932346,Meningioma,True,0.932346,0.85291433,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0410.jpg,test,Meningioma,0.9552585,Meningioma,True,0.9552585,0.81120145,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0419.jpg,test,Meningioma,0.9393466,Meningioma,True,0.9393466,0.86694294,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0431.jpg,test,Meningioma,0.8698924,Meningioma,True,0.8698924,0.8681626,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0438.jpg,test,Meningioma,0.90733397,Meningioma,True,0.90733397,0.83609134,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0447.jpg,test,Meningioma,0.9310029,Meningioma,True,0.9310029,0.8766296,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0455.jpg,test,Meningioma,0.9251856,Meningioma,True,0.9251856,0.8206881,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0460.jpg,test,Meningioma,0.9270539,Meningioma,True,0.9270539,0.81357384,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0469.jpg,test,Meningioma,0.8999552,Meningioma,True,0.8999552,0.85622156,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0475.jpg,test,Meningioma,0.859031,Meningioma,True,0.859031,0.83738726,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0477.jpg,test,Meningioma,0.89495903,Meningioma,True,0.89495903,0.78795874,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0485.jpg,test,Meningioma,0.8339504,Meningioma,True,0.8339504,0.8062759,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0494.jpg,test,Meningioma,0.90254974,Meningioma,True,0.90254974,0.7554448,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0505.jpg,test,Meningioma,0.94988674,Meningioma,True,0.94988674,0.69409597,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0515.jpg,test,Meningioma,0.9071437,Meningioma,True,0.9071437,0.73191863,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0523.jpg,test,Meningioma,0.905165,Meningioma,True,0.905165,0.8413775,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0532.jpg,test,Meningioma,0.9098783,Meningioma,True,0.9098783,0.8354422,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0538.jpg,test,Meningioma,0.9407964,Meningioma,True,0.9407964,0.81969506,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0547.jpg,test,Meningioma,0.81732273,Meningioma,True,0.81732273,0.7639924,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0554.jpg,test,Meningioma,0.83793235,Meningioma,True,0.83793235,0.7554457,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0561.jpg,test,Meningioma,0.9191084,Meningioma,True,0.9191084,0.7313052,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0571.jpg,test,Meningioma,0.8829715,Meningioma,True,0.8829715,0.6454083,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0580.jpg,test,Meningioma,0.81969315,No Tumor,False,0.7766404,0.81969315,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0591.jpg,test,Meningioma,0.75993407,Meningioma,True,0.75993407,0.7478017,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0603.jpg,test,Meningioma,0.8518752,Glioma,False,0.80631155,0.8518752,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0618.jpg,test,Meningioma,0.86631054,Meningioma,True,0.86631054,0.71501637,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0635.jpg,test,Meningioma,0.86704314,Meningioma,True,0.86704314,0.72294956,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0647.jpg,test,Meningioma,0.7361891,Glioma,False,0.7036823,0.7361891,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0653.jpg,test,Meningioma,0.7979168,Meningioma,True,0.7979168,0.6468152,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0665.jpg,test,Meningioma,0.8791453,Meningioma,True,0.8791453,0.7514672,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0676.jpg,test,Meningioma,0.8857293,Meningioma,True,0.8857293,0.8025273,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0686.jpg,test,Meningioma,0.7582043,Meningioma,True,0.7582043,0.7520932,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0703.jpg,test,Meningioma,0.88749635,Meningioma,True,0.88749635,0.8120949,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0711.jpg,test,Meningioma,0.87032783,Meningioma,True,0.87032783,0.69410354,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0732.jpg,test,Meningioma,0.7967008,Glioma,False,0.77890986,0.7967008,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0746.jpg,test,Meningioma,0.84265494,Glioma,False,0.7802525,0.84265494,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0754.jpg,test,Meningioma,0.8943012,Meningioma,True,0.8943012,0.67835253,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0765.jpg,test,Meningioma,0.8740654,Meningioma,True,0.8740654,0.6969808,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0771.jpg,test,Meningioma,0.9053222,Meningioma,True,0.9053222,0.7174651,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0781.jpg,test,Meningioma,0.91947633,Meningioma,True,0.91947633,0.7495197,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0793.jpg,test,Meningioma,0.9565944,Meningioma,True,0.9565944,0.89296764,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0810.jpg,test,Meningioma,0.957841,Glioma,False,0.930171,0.957841,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0825.jpg,test,Meningioma,0.9293289,Meningioma,True,0.9293289,0.75241125,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0865.jpg,test,Meningioma,0.6559212,Glioma,False,0.6501882,0.6559212,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0868.jpg,test,Meningioma,0.8737095,Meningioma,True,0.8737095,0.82523584,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0875.jpg,test,Meningioma,0.9347087,Meningioma,True,0.9347087,0.8886841,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0878.jpg,test,Meningioma,0.91802275,Meningioma,True,0.91802275,0.88912666,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0888.jpg,test,Meningioma,0.77285767,Meningioma,True,0.77285767,0.7215449,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0900.jpg,test,Meningioma,0.90938294,Meningioma,True,0.90938294,0.8370488,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0908.jpg,test,Meningioma,0.9405662,Meningioma,True,0.9405662,0.82011706,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0923.jpg,test,Meningioma,0.8414793,Meningioma,True,0.8414793,0.82316774,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0938.jpg,test,Meningioma,0.8775476,Meningioma,True,0.8775476,0.8267231,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0948.jpg,test,Meningioma,0.9578303,Meningioma,True,0.9578303,0.85299915,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0954.jpg,test,Meningioma,0.8881996,Meningioma,True,0.8881996,0.8117665,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0958.jpg,test,Meningioma,0.78639305,Meningioma,True,0.78639305,0.77848196,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0966.jpg,test,Meningioma,0.9070212,Meningioma,True,0.9070212,0.8260197,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0986.jpg,test,Meningioma,0.90488315,Meningioma,True,0.90488315,0.8485001,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_0994.jpg,test,Meningioma,0.92512846,Meningioma,True,0.92512846,0.8202087,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1008.jpg,test,Meningioma,0.9066777,Meningioma,True,0.9066777,0.80740356,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1014.jpg,test,Meningioma,0.91585565,Meningioma,True,0.91585565,0.8361249,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1021.jpg,test,Meningioma,0.77372026,Glioma,False,0.7385403,0.77372026,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1041.jpg,test,Meningioma,0.9281943,Meningioma,True,0.9281943,0.67800045,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1047.jpg,test,Meningioma,0.9210162,Meningioma,True,0.9210162,0.6551351,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1066.jpg,test,Meningioma,0.71202314,Glioma,False,0.68009925,0.71202314,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1085.jpg,test,Meningioma,0.7534449,Meningioma,True,0.7534449,0.7523755,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1094.jpg,test,Meningioma,0.85042316,Meningioma,True,0.85042316,0.7956747,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1109.jpg,test,Meningioma,0.88223,Meningioma,True,0.88223,0.8114976,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1115.jpg,test,Meningioma,0.8498594,Meningioma,True,0.8498594,0.6025019,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1146.jpg,test,Meningioma,0.6903148,No Tumor,False,0.6509037,0.6903148,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1155.jpg,test,Meningioma,0.69346255,Meningioma,True,0.69346255,0.65067893,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1164.jpg,test,Meningioma,0.8534699,Meningioma,True,0.8534699,0.78449166,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1169.jpg,test,Meningioma,0.8553879,Meningioma,True,0.8553879,0.76949805,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1189.jpg,test,Meningioma,0.691671,Meningioma,True,0.691671,0.64643115,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1211.jpg,test,Meningioma,0.90571046,Meningioma,True,0.90571046,0.7714576,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1218.jpg,test,Meningioma,0.86058927,Meningioma,True,0.86058927,0.80346507,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1231.jpg,test,Meningioma,0.9121709,Meningioma,True,0.9121709,0.78955376,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1243.jpg,test,Meningioma,0.8852418,Meningioma,True,0.8852418,0.67400503,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1258.jpg,test,Meningioma,0.8455872,Meningioma,True,0.8455872,0.81310344,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1304.jpg,test,Meningioma,0.9096021,Meningioma,True,0.9096021,0.8455216,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1323.jpg,test,Meningioma,0.9154187,Meningioma,True,0.9154187,0.88011247,Tr-/Te- prefixed
+Train/Meningioma/images/m (106).jpg,test,Meningioma,0.92572993,Meningioma,True,0.92572993,0.84108967,other filename pattern
+Train/Meningioma/images/m (117).jpg,test,Meningioma,0.9140123,Meningioma,True,0.9140123,0.8801086,other filename pattern
+Train/Meningioma/images/m (130).jpg,test,Meningioma,0.89684486,Meningioma,True,0.89684486,0.8928877,other filename pattern
+Train/Meningioma/images/m (142).jpg,test,Meningioma,0.9410993,Meningioma,True,0.9410993,0.8874012,other filename pattern
+Train/Meningioma/images/m (158).jpg,test,Meningioma,0.873241,Meningioma,True,0.873241,0.8425483,other filename pattern
+Train/Meningioma/images/m (171).jpg,test,Meningioma,0.9597687,Meningioma,True,0.9597687,0.8155659,other filename pattern
+Train/Meningioma/images/m (194).jpg,test,Meningioma,0.92710716,Meningioma,True,0.92710716,0.8962388,other filename pattern
+Train/Meningioma/images/m (23).jpg,test,Meningioma,0.9296651,Meningioma,True,0.9296651,0.7391315,other filename pattern
+Train/Meningioma/images/m (46).jpg,test,Meningioma,0.928369,Meningioma,True,0.928369,0.82120156,other filename pattern
+Train/Meningioma/images/m (54).jpg,test,Meningioma,0.92004097,Meningioma,True,0.92004097,0.8429636,other filename pattern
+Train/Meningioma/images/m (7).jpg,test,Meningioma,0.9357118,Glioma,False,0.92320853,0.9357118,other filename pattern
+Train/Meningioma/images/m (81).jpg,test,Meningioma,0.92505616,Meningioma,True,0.92505616,0.84887373,other filename pattern
+Train/Meningioma/images/m (95).jpg,test,Meningioma,0.78845906,Glioma,False,0.7875479,0.78845906,other filename pattern
+Train/Meningioma/images/m1(107).jpg,test,Meningioma,0.57539946,No Tumor,False,0.5662783,0.57539946,other filename pattern
+Train/Meningioma/images/m1(125).jpg,test,Meningioma,0.525127,Pituitary,False,0.4822934,0.525127,other filename pattern
+Train/Meningioma/images/m1(132).jpg,test,Meningioma,0.6332259,No Tumor,False,0.57824165,0.6332259,other filename pattern
+Train/Meningioma/images/m1(136).jpg,test,Meningioma,0.9174074,Meningioma,True,0.9174074,0.8996256,other filename pattern
+Train/Meningioma/images/m1(163).jpg,test,Meningioma,0.64087033,Pituitary,False,0.6268906,0.64087033,other filename pattern
+Train/Meningioma/images/m1(180).jpg,test,Meningioma,0.8704368,No Tumor,False,0.84791183,0.8704368,other filename pattern
+Train/Meningioma/images/m1(19).jpg,test,Meningioma,0.8118676,Pituitary,False,0.78336656,0.8118676,other filename pattern
+Train/Meningioma/images/m1(195).jpg,test,Meningioma,0.7873994,Meningioma,True,0.7873994,0.51894367,other filename pattern
+Train/Meningioma/images/m1(20).jpg,test,Meningioma,0.8614604,Pituitary,False,0.81302404,0.8614604,other filename pattern
+Train/Meningioma/images/m1(21).jpg,test,Meningioma,0.8768957,Pituitary,False,0.81750196,0.8768957,other filename pattern
+Train/Meningioma/images/m1(33).jpg,test,Meningioma,0.9195285,Meningioma,True,0.9195285,0.8357831,other filename pattern
+Train/Meningioma/images/m1(38).jpg,test,Meningioma,0.7628046,Glioma,False,0.75861293,0.7628046,other filename pattern
+Train/Meningioma/images/m1(49).jpg,test,Meningioma,0.9535215,Meningioma,True,0.9535215,0.7934424,other filename pattern
+Train/Meningioma/images/m1(52).jpg,test,Meningioma,0.91308796,Meningioma,True,0.91308796,0.8393771,other filename pattern
+Train/Meningioma/images/m1(61).jpg,test,Meningioma,0.9082813,Meningioma,True,0.9082813,0.8711491,other filename pattern
+Train/Meningioma/images/m1(74).jpg,test,Meningioma,0.95598555,Meningioma,True,0.95598555,0.8989634,other filename pattern
+Train/Meningioma/images/m1(92).jpg,test,Meningioma,0.7213379,No Tumor,False,0.7158961,0.7213379,other filename pattern
+Train/Meningioma/images/m2 (117).jpg,test,Meningioma,0.90942174,Meningioma,True,0.90942174,0.83969396,other filename pattern
+Train/Meningioma/images/m2 (138).jpg,test,Meningioma,0.86252505,Meningioma,True,0.86252505,0.839201,other filename pattern
+Train/Meningioma/images/m2 (48).jpg,test,Meningioma,0.8714872,Meningioma,True,0.8714872,0.7556434,other filename pattern
+Train/Meningioma/images/m2 (81).jpg,test,Meningioma,0.78200185,No Tumor,False,0.76934236,0.78200185,other filename pattern
+Train/Meningioma/images/m3 (137).jpg,test,Meningioma,0.7680344,No Tumor,False,0.7477557,0.7680344,other filename pattern
+Train/Meningioma/images/m3 (143).jpg,test,Meningioma,0.70789117,No Tumor,False,0.6779259,0.70789117,other filename pattern
+Train/Meningioma/images/m3 (163).jpg,test,Meningioma,0.860673,Meningioma,True,0.860673,0.7524387,other filename pattern
+Train/Meningioma/images/m3 (187).jpg,test,Meningioma,0.89830595,Meningioma,True,0.89830595,0.7399954,other filename pattern
+Train/Meningioma/images/m3 (220).jpg,test,Meningioma,0.84503776,Meningioma,True,0.84503776,0.824347,other filename pattern
+Train/Meningioma/images/m3 (239).jpg,test,Meningioma,0.84383637,Meningioma,True,0.84383637,0.71049017,other filename pattern
+Train/Meningioma/images/m3 (37).jpg,test,Meningioma,0.79921,Meningioma,True,0.79921,0.74804306,other filename pattern
+Train/Meningioma/images/m3 (45).jpg,test,Meningioma,0.7422309,Meningioma,True,0.7422309,0.72194993,other filename pattern
+Train/Meningioma/images/m3 (56).jpg,test,Meningioma,0.77942735,Glioma,False,0.7672951,0.77942735,other filename pattern
+Train/Meningioma/images/m3 (74).jpg,test,Meningioma,0.80422384,Meningioma,True,0.80422384,0.7624437,other filename pattern
+Train/No Tumor/images/Tr-noTr_0008.jpg,test,No Tumor,0.56905574,Glioma,False,0.56190395,0.56905574,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0020.jpg,test,No Tumor,0.8197291,No Tumor,True,0.8197291,0.6526972,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0037.jpg,test,No Tumor,0.85283154,No Tumor,True,0.85283154,0.7779203,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0100.jpg,test,No Tumor,0.9130196,No Tumor,True,0.9130196,0.86912453,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0150.jpg,test,No Tumor,0.67989075,No Tumor,True,0.67989075,0.66253823,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0185.jpg,test,No Tumor,0.85654396,No Tumor,True,0.85654396,0.80763084,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0215.jpg,test,No Tumor,0.77137357,No Tumor,True,0.77137357,0.6552888,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0253.jpg,test,No Tumor,0.90765244,No Tumor,True,0.90765244,0.8846531,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0277.jpg,test,No Tumor,0.80008423,Glioma,False,0.78481597,0.80008423,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0281.jpg,test,No Tumor,0.7788121,No Tumor,True,0.7788121,0.6445995,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0300.jpg,test,No Tumor,0.7322854,No Tumor,True,0.7322854,0.60880536,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0315.jpg,test,No Tumor,0.7579891,No Tumor,True,0.7579891,0.69475704,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0423.jpg,test,No Tumor,0.74316025,No Tumor,True,0.74316025,0.66711444,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0440.jpg,test,No Tumor,0.9470576,No Tumor,True,0.9470576,0.85832953,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0442.jpg,test,No Tumor,0.89859754,No Tumor,True,0.89859754,0.7784016,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0467.jpg,test,No Tumor,0.9409787,No Tumor,True,0.9409787,0.820891,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0525.jpg,test,No Tumor,0.72065765,No Tumor,True,0.72065765,0.7186352,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0608.jpg,test,No Tumor,0.87501717,No Tumor,True,0.87501717,0.867015,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0639.jpg,test,No Tumor,0.9424614,No Tumor,True,0.9424614,0.8110118,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0642.jpg,test,No Tumor,0.69548976,No Tumor,True,0.69548976,0.63831687,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0683.jpg,test,No Tumor,0.8262822,No Tumor,True,0.8262822,0.78170943,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0685.jpg,test,No Tumor,0.9880686,No Tumor,True,0.9880686,0.7303079,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0716.jpg,test,No Tumor,0.9312467,No Tumor,True,0.9312467,0.7962375,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0843.jpg,test,No Tumor,0.9985359,No Tumor,True,0.9985359,0.6557539,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0850.jpg,test,No Tumor,0.9381827,No Tumor,True,0.9381827,0.8303295,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0914.jpg,test,No Tumor,0.8566324,No Tumor,True,0.8566324,0.807922,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_0953.jpg,test,No Tumor,0.9023457,No Tumor,True,0.9023457,0.7780492,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1012.jpg,test,No Tumor,0.79391694,Glioma,False,0.7766709,0.79391694,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1015.jpg,test,No Tumor,0.85647184,No Tumor,True,0.85647184,0.807462,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1045.jpg,test,No Tumor,0.99088955,No Tumor,True,0.99088955,0.80284935,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1065.jpg,test,No Tumor,0.8194204,No Tumor,True,0.8194204,0.6527512,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1087.jpg,test,No Tumor,0.7332532,No Tumor,True,0.7332532,0.6107051,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1165.jpg,test,No Tumor,0.93567294,No Tumor,True,0.93567294,0.8176863,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1192.jpg,test,No Tumor,0.81948876,No Tumor,True,0.81948876,0.65282685,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1198.jpg,test,No Tumor,0.9356816,No Tumor,True,0.9356816,0.81735015,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1243.jpg,test,No Tumor,0.9469828,No Tumor,True,0.9469828,0.8582136,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1263.jpg,test,No Tumor,0.9820035,No Tumor,True,0.9820035,0.71237886,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1265.jpg,test,No Tumor,0.8974782,No Tumor,True,0.8974782,0.778574,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1312.jpg,test,No Tumor,0.9409227,No Tumor,True,0.9409227,0.8212841,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1324.jpg,test,No Tumor,0.93891263,No Tumor,True,0.93891263,0.8282399,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1327.jpg,test,No Tumor,0.93996626,No Tumor,True,0.93996626,0.8293114,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1409.jpg,test,No Tumor,0.9514172,No Tumor,True,0.9514172,0.77283424,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1427.jpg,test,No Tumor,0.89882696,No Tumor,True,0.89882696,0.7786553,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1443.jpg,test,No Tumor,0.9346892,No Tumor,True,0.9346892,0.80708903,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1493.jpg,test,No Tumor,0.9883077,No Tumor,True,0.9883077,0.7301202,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1522.jpg,test,No Tumor,0.7958462,No Tumor,True,0.7958462,0.75103563,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1531.jpg,test,No Tumor,0.94107753,No Tumor,True,0.94107753,0.8203125,Tr-/Te- prefixed
+Train/No Tumor/images/Tr-no_1542.jpg,test,No Tumor,0.93844616,No Tumor,True,0.93844616,0.82730156,Tr-/Te- prefixed
+Train/No Tumor/images/image (43).jpg,test,No Tumor,0.89856565,No Tumor,True,0.89856565,0.8707066,other filename pattern
+Train/No Tumor/images/image(101).jpg,test,No Tumor,0.72218007,No Tumor,True,0.72218007,0.71098423,other filename pattern
+Train/No Tumor/images/image(105).jpg,test,No Tumor,0.32516056,Pituitary,False,0.21192057,0.32516056,other filename pattern
+Train/No Tumor/images/image(117).jpg,test,No Tumor,0.669101,Pituitary,False,0.55745643,0.669101,other filename pattern
+Train/No Tumor/images/image(124).jpg,test,No Tumor,0.744698,No Tumor,True,0.744698,0.7228036,other filename pattern
+Train/No Tumor/images/image(136).jpg,test,No Tumor,0.857331,No Tumor,True,0.857331,0.8072133,other filename pattern
+Train/No Tumor/images/image(176).jpg,test,No Tumor,0.8236862,No Tumor,True,0.8236862,0.7113192,other filename pattern
+Train/No Tumor/images/image(190).jpg,test,No Tumor,0.57894725,No Tumor,True,0.57894725,0.57797253,other filename pattern
+Train/No Tumor/images/image(203).jpg,test,No Tumor,0.74454826,Meningioma,False,0.6810431,0.74454826,other filename pattern
+Train/No Tumor/images/image(223).jpg,test,No Tumor,0.9203867,No Tumor,True,0.9203867,0.9080917,other filename pattern
+Train/No Tumor/images/image(237).jpg,test,No Tumor,0.83789384,No Tumor,True,0.83789384,0.722139,other filename pattern
+Train/No Tumor/images/image(25).jpg,test,No Tumor,0.7083046,Meningioma,False,0.6764472,0.7083046,other filename pattern
+Train/No Tumor/images/image(260).jpg,test,No Tumor,0.771948,No Tumor,True,0.771948,0.6149611,other filename pattern
+Train/No Tumor/images/image(267).jpg,test,No Tumor,0.61480236,Meningioma,False,0.5893515,0.61480236,other filename pattern
+Train/No Tumor/images/image(299).jpg,test,No Tumor,0.7981073,No Tumor,True,0.7981073,0.6761979,other filename pattern
+Train/No Tumor/images/image(312).jpg,test,No Tumor,0.7328859,No Tumor,True,0.7328859,0.71208495,other filename pattern
+Train/No Tumor/images/image(4).jpg,test,No Tumor,0.7673074,No Tumor,True,0.7673074,0.72788554,other filename pattern
+Train/No Tumor/images/image(58).jpg,test,No Tumor,0.6681046,No Tumor,True,0.6681046,0.6210606,other filename pattern
+Train/No Tumor/images/image(83).jpg,test,No Tumor,0.61528087,No Tumor,True,0.61528087,0.5924526,other filename pattern
+Train/No Tumor/images/image(94).jpg,test,No Tumor,0.33586124,Pituitary,False,0.32435143,0.33586124,other filename pattern
+Train/Pituitary/images/Te-pi_0015.jpg,test,Pituitary,0.9318736,Pituitary,True,0.9318736,0.7034594,Tr-/Te- prefixed
+Train/Pituitary/images/Te-pi_0020.jpg,test,Pituitary,0.9451392,Pituitary,True,0.9451392,0.6855271,Tr-/Te- prefixed
+Train/Pituitary/images/Te-pi_0039.jpg,test,Pituitary,0.9602587,Pituitary,True,0.9602587,0.7868977,Tr-/Te- prefixed
+Train/Pituitary/images/Te-pi_0047.jpg,test,Pituitary,0.88934875,Pituitary,True,0.88934875,0.7332165,Tr-/Te- prefixed
+Train/Pituitary/images/Te-pi_0061.jpg,test,Pituitary,0.8986597,Pituitary,True,0.8986597,0.7125542,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0010.jpg,test,Pituitary,0.9052609,Pituitary,True,0.9052609,0.7850134,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0017.jpg,test,Pituitary,0.7686379,Pituitary,True,0.7686379,0.7125072,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0025.jpg,test,Pituitary,0.9506784,Pituitary,True,0.9506784,0.69866633,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0048.jpg,test,Pituitary,0.95731705,Pituitary,True,0.95731705,0.653368,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0062.jpg,test,Pituitary,0.9485734,Pituitary,True,0.9485734,0.4029948,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0071.jpg,test,Pituitary,0.94302285,Pituitary,True,0.94302285,0.6293816,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0083.jpg,test,Pituitary,0.94163585,Pituitary,True,0.94163585,0.66549176,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0095.jpg,test,Pituitary,0.9415173,Pituitary,True,0.9415173,0.67772764,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0113.jpg,test,Pituitary,0.58579904,Pituitary,True,0.58579904,0.45150208,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0123.jpg,test,Pituitary,0.9773309,Pituitary,True,0.9773309,0.78487796,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0139.jpg,test,Pituitary,0.96015483,Pituitary,True,0.96015483,0.65752965,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0150.jpg,test,Pituitary,0.9625975,Pituitary,True,0.9625975,0.6812566,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0158.jpg,test,Pituitary,0.775688,Pituitary,True,0.775688,0.7032425,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0171.jpg,test,Pituitary,0.9007485,Pituitary,True,0.9007485,0.48136652,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0176.jpg,test,Pituitary,0.9352397,Pituitary,True,0.9352397,0.5799571,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0192.jpg,test,Pituitary,0.9305667,Pituitary,True,0.9305667,0.7064957,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0202.jpg,test,Pituitary,0.9135858,Pituitary,True,0.9135858,0.45769095,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0215.jpg,test,Pituitary,0.88210434,Pituitary,True,0.88210434,0.44771758,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0237.jpg,test,Pituitary,0.9048849,Pituitary,True,0.9048849,0.44181097,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0244.jpg,test,Pituitary,0.9491982,Pituitary,True,0.9491982,0.61459243,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0260.jpg,test,Pituitary,0.95498264,Pituitary,True,0.95498264,0.8133446,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0263.jpg,test,Pituitary,0.9422725,Pituitary,True,0.9422725,0.73231685,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0270.jpg,test,Pituitary,0.9055476,Pituitary,True,0.9055476,0.7614445,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0279.jpg,test,Pituitary,0.9281306,Pituitary,True,0.9281306,0.76551247,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0287.jpg,test,Pituitary,0.91957015,Pituitary,True,0.91957015,0.5411652,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0297.jpg,test,Pituitary,0.8166191,Pituitary,True,0.8166191,0.71679294,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0305.jpg,test,Pituitary,0.9598274,Pituitary,True,0.9598274,0.7444659,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0323.jpg,test,Pituitary,0.8816582,Pituitary,True,0.8816582,0.78897864,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0332.jpg,test,Pituitary,0.9519049,Pituitary,True,0.9519049,0.7573065,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0344.jpg,test,Pituitary,0.910892,Pituitary,True,0.910892,0.7109223,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0362.jpg,test,Pituitary,0.84541714,Pituitary,True,0.84541714,0.44576502,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0370.jpg,test,Pituitary,0.9277776,Pituitary,True,0.9277776,0.6322526,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0395.jpg,test,Pituitary,0.94552684,Pituitary,True,0.94552684,0.512816,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0405.jpg,test,Pituitary,0.9629097,Pituitary,True,0.9629097,0.635206,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0416.jpg,test,Pituitary,0.93570346,Pituitary,True,0.93570346,0.670251,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0425.jpg,test,Pituitary,0.9528849,Pituitary,True,0.9528849,0.7416997,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0445.jpg,test,Pituitary,0.9489209,Pituitary,True,0.9489209,0.7364432,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0466.jpg,test,Pituitary,0.9562044,Pituitary,True,0.9562044,0.6184795,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0479.jpg,test,Pituitary,0.9533135,Pituitary,True,0.9533135,0.65815866,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0490.jpg,test,Pituitary,0.95283675,Pituitary,True,0.95283675,0.7507855,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0496.jpg,test,Pituitary,0.9261908,Pituitary,True,0.9261908,0.8178874,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0514.jpg,test,Pituitary,0.8746263,Pituitary,True,0.8746263,0.85876095,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0529.jpg,test,Pituitary,0.9230593,Pituitary,True,0.9230593,0.54282624,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0550.jpg,test,Pituitary,0.9528706,Pituitary,True,0.9528706,0.67559344,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0564.jpg,test,Pituitary,0.9703891,Pituitary,True,0.9703891,0.7094764,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0565.jpg,test,Pituitary,0.914863,Pituitary,True,0.914863,0.72041017,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0571.jpg,test,Pituitary,0.9426126,Pituitary,True,0.9426126,0.75477856,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0574.jpg,test,Pituitary,0.8871359,Pituitary,True,0.8871359,0.84433544,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0584.jpg,test,Pituitary,0.9663014,Pituitary,True,0.9663014,0.6946732,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0593.jpg,test,Pituitary,0.9658714,Pituitary,True,0.9658714,0.80370736,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0601.jpg,test,Pituitary,0.9468018,Pituitary,True,0.9468018,0.6945243,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0604.jpg,test,Pituitary,0.97031903,Pituitary,True,0.97031903,0.6782938,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0615.jpg,test,Pituitary,0.95561,Pituitary,True,0.95561,0.6986163,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0624.jpg,test,Pituitary,0.90215194,Pituitary,True,0.90215194,0.77939886,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0644.jpg,test,Pituitary,0.9621949,Pituitary,True,0.9621949,0.79480636,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0723.jpg,test,Pituitary,0.966134,Pituitary,True,0.966134,0.70621186,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0728.jpg,test,Pituitary,0.96265674,Pituitary,True,0.96265674,0.7133891,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0762.jpg,test,Pituitary,0.9365539,Pituitary,True,0.9365539,0.7099736,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0805.jpg,test,Pituitary,0.87048936,Pituitary,True,0.87048936,0.746902,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0825.jpg,test,Pituitary,0.88511217,Pituitary,True,0.88511217,0.84205985,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0834.jpg,test,Pituitary,0.92998314,Pituitary,True,0.92998314,0.45713612,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0850.jpg,test,Pituitary,0.94820786,Pituitary,True,0.94820786,0.50490046,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0868.jpg,test,Pituitary,0.8745704,Pituitary,True,0.8745704,0.41062868,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0899.jpg,test,Pituitary,0.93108994,Pituitary,True,0.93108994,0.5736678,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0904.jpg,test,Pituitary,0.94696075,Pituitary,True,0.94696075,0.48276803,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0918.jpg,test,Pituitary,0.90213406,Pituitary,True,0.90213406,0.80620074,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0936.jpg,test,Pituitary,0.86177623,Pituitary,True,0.86177623,0.764408,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0980.jpg,test,Pituitary,0.9261657,Pituitary,True,0.9261657,0.6023208,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_0992.jpg,test,Pituitary,0.7330323,Pituitary,True,0.7330323,0.6917901,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1069.jpg,test,Pituitary,0.9555358,Pituitary,True,0.9555358,0.6985178,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1098.jpg,test,Pituitary,0.8648735,Pituitary,True,0.8648735,0.7573265,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1104.jpg,test,Pituitary,0.8604228,Pituitary,True,0.8604228,0.7590919,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1182.jpg,test,Pituitary,0.8350267,Pituitary,True,0.8350267,0.73384273,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1197.jpg,test,Pituitary,0.8075324,Pituitary,True,0.8075324,0.6734615,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1252.jpg,test,Pituitary,0.95177597,Pituitary,True,0.95177597,0.7034792,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1307.jpg,test,Pituitary,0.49897036,Pituitary,True,0.49897036,0.4663611,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1345.jpg,test,Pituitary,0.6382835,Pituitary,True,0.6382835,0.56029433,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1375.jpg,test,Pituitary,0.883449,Pituitary,True,0.883449,0.53827727,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1408.jpg,test,Pituitary,0.7340623,Glioma,False,0.7216568,0.7340623,Tr-/Te- prefixed
+Train/Pituitary/images/Tr-pi_1437.jpg,test,Pituitary,0.780366,Pituitary,True,0.780366,0.65684044,Tr-/Te- prefixed
+Train/Pituitary/images/p (103).jpg,test,Pituitary,0.9019925,Pituitary,True,0.9019925,0.7892796,other filename pattern
+Train/Pituitary/images/p (128).jpg,test,Pituitary,0.445626,Pituitary,True,0.445626,0.32124564,other filename pattern
+Train/Pituitary/images/p (144).jpg,test,Pituitary,0.93988997,Pituitary,True,0.93988997,0.65472555,other filename pattern
+Train/Pituitary/images/p (166).jpg,test,Pituitary,0.934869,Pituitary,True,0.934869,0.6049327,other filename pattern
+Train/Pituitary/images/p (176).jpg,test,Pituitary,0.93922,Pituitary,True,0.93922,0.7032544,other filename pattern
+Train/Pituitary/images/p (194).jpg,test,Pituitary,0.9106403,Pituitary,True,0.9106403,0.64321524,other filename pattern
+Train/Pituitary/images/p (198).jpg,test,Pituitary,0.93447274,Pituitary,True,0.93447274,0.6351524,other filename pattern
+Train/Pituitary/images/p (205).jpg,test,Pituitary,0.95247203,Pituitary,True,0.95247203,0.7164634,other filename pattern
+Train/Pituitary/images/p (232).jpg,test,Pituitary,0.9568309,Pituitary,True,0.9568309,0.6822377,other filename pattern
+Train/Pituitary/images/p (254).jpg,test,Pituitary,0.8624577,Pituitary,True,0.8624577,0.45009494,other filename pattern
+Train/Pituitary/images/p (27).jpg,test,Pituitary,0.94982284,Pituitary,True,0.94982284,0.61543256,other filename pattern
+Train/Pituitary/images/p (284).jpg,test,Pituitary,0.8569939,Pituitary,True,0.8569939,0.49767223,other filename pattern
+Train/Pituitary/images/p (301).jpg,test,Pituitary,0.9245152,Pituitary,True,0.9245152,0.64038336,other filename pattern
+Train/Pituitary/images/p (313).jpg,test,Pituitary,0.90172553,Pituitary,True,0.90172553,0.65333384,other filename pattern
+Train/Pituitary/images/p (331).jpg,test,Pituitary,0.9561785,Pituitary,True,0.9561785,0.83434075,other filename pattern
+Train/Pituitary/images/p (371).jpg,test,Pituitary,0.95378244,Pituitary,True,0.95378244,0.64481306,other filename pattern
+Train/Pituitary/images/p (387).jpg,test,Pituitary,0.9508722,Pituitary,True,0.9508722,0.80198437,other filename pattern
+Train/Pituitary/images/p (414).jpg,test,Pituitary,0.9137176,Pituitary,True,0.9137176,0.69883674,other filename pattern
+Train/Pituitary/images/p (423).jpg,test,Pituitary,0.9506634,Pituitary,True,0.9506634,0.5239018,other filename pattern
+Train/Pituitary/images/p (444).jpg,test,Pituitary,0.95542777,Pituitary,True,0.95542777,0.63377935,other filename pattern
+Train/Pituitary/images/p (447).jpg,test,Pituitary,0.9492095,Pituitary,True,0.9492095,0.5981378,other filename pattern
+Train/Pituitary/images/p (462).jpg,test,Pituitary,0.9186313,Pituitary,True,0.9186313,0.5888951,other filename pattern
+Train/Pituitary/images/p (468).jpg,test,Pituitary,0.9302747,Pituitary,True,0.9302747,0.47809815,other filename pattern
+Train/Pituitary/images/p (48).jpg,test,Pituitary,0.9473061,Pituitary,True,0.9473061,0.64904034,other filename pattern
+Train/Pituitary/images/p (5).jpg,test,Pituitary,0.94699186,Pituitary,True,0.94699186,0.7257395,other filename pattern
+Train/Pituitary/images/p (508).jpg,test,Pituitary,0.90730864,Pituitary,True,0.90730864,0.7469801,other filename pattern
+Train/Pituitary/images/p (515).jpg,test,Pituitary,0.94370085,Pituitary,True,0.94370085,0.60952485,other filename pattern
+Train/Pituitary/images/p (525).jpg,test,Pituitary,0.93790996,Pituitary,True,0.93790996,0.74807024,other filename pattern
+Train/Pituitary/images/p (553).jpg,test,Pituitary,0.96500957,Pituitary,True,0.96500957,0.8122487,other filename pattern
+Train/Pituitary/images/p (569).jpg,test,Pituitary,0.92728746,Pituitary,True,0.92728746,0.8120451,other filename pattern
+Train/Pituitary/images/p (577).jpg,test,Pituitary,0.9403961,Pituitary,True,0.9403961,0.52574986,other filename pattern
+Train/Pituitary/images/p (588).jpg,test,Pituitary,0.62487155,Pituitary,True,0.62487155,0.35275793,other filename pattern
+Train/Pituitary/images/p (599).jpg,test,Pituitary,0.9747588,Pituitary,True,0.9747588,0.82632935,other filename pattern
+Train/Pituitary/images/p (617).jpg,test,Pituitary,0.9590526,Pituitary,True,0.9590526,0.7103505,other filename pattern
+Train/Pituitary/images/p (633).jpg,test,Pituitary,0.86456376,Pituitary,True,0.86456376,0.8355722,other filename pattern
+Train/Pituitary/images/p (656).jpg,test,Pituitary,0.9317546,Pituitary,True,0.9317546,0.8200846,other filename pattern
+Train/Pituitary/images/p (689).jpg,test,Pituitary,0.96370465,Pituitary,True,0.96370465,0.8080217,other filename pattern
+Train/Pituitary/images/p (699).jpg,test,Pituitary,0.96470594,Pituitary,True,0.96470594,0.8216767,other filename pattern
+Train/Pituitary/images/p (720).jpg,test,Pituitary,0.96131337,Pituitary,True,0.96131337,0.82706046,other filename pattern
+Train/Pituitary/images/p (732).jpg,test,Pituitary,0.94740117,Pituitary,True,0.94740117,0.7671603,other filename pattern
+Train/Pituitary/images/p (746).jpg,test,Pituitary,0.91324615,Pituitary,True,0.91324615,0.62641317,other filename pattern
+Train/Pituitary/images/p (750).jpg,test,Pituitary,0.8416711,Pituitary,True,0.8416711,0.7185557,other filename pattern
+Train/Pituitary/images/p (766).jpg,test,Pituitary,0.9599571,Pituitary,True,0.9599571,0.5217946,other filename pattern
+Train/Pituitary/images/p (770).jpg,test,Pituitary,0.9633973,Pituitary,True,0.9633973,0.7834004,other filename pattern
+Train/Pituitary/images/p (779).jpg,test,Pituitary,0.7470241,Pituitary,True,0.7470241,0.67881364,other filename pattern
+Train/Pituitary/images/p (786).jpg,test,Pituitary,0.9551893,Pituitary,True,0.9551893,0.78847075,other filename pattern
+Train/Pituitary/images/p (794).jpg,test,Pituitary,0.9574085,Pituitary,True,0.9574085,0.76345104,other filename pattern
+Train/Pituitary/images/p (804).jpg,test,Pituitary,0.8171524,Pituitary,True,0.8171524,0.70423925,other filename pattern
+Train/Pituitary/images/p (827).jpg,test,Pituitary,0.7855878,Pituitary,True,0.7855878,0.7662983,other filename pattern
+Train/Pituitary/images/p (87).jpg,test,Pituitary,0.9503271,Pituitary,True,0.9503271,0.6289598,other filename pattern
+Train/Pituitary/images/p (98).jpg,test,Pituitary,0.96229666,Pituitary,True,0.96229666,0.75998837,other filename pattern
+Val/Glioma/images/Tr-gl_0314.jpg,test,Glioma,0.90197396,Glioma,True,0.90197396,0.8497323,Tr-/Te- prefixed
+Val/Glioma/images/Tr-gl_0375.jpg,test,Glioma,0.9417801,Glioma,True,0.9417801,0.923447,Tr-/Te- prefixed
+Val/Glioma/images/Tr-gl_0507.jpg,test,Glioma,0.96593225,Glioma,True,0.96593225,0.8839724,Tr-/Te- prefixed
+Val/Glioma/images/Tr-gl_0691.jpg,test,Glioma,0.8469555,Glioma,True,0.8469555,0.8111737,Tr-/Te- prefixed
+Val/Glioma/images/Tr-gl_1141.jpg,test,Glioma,0.951185,Glioma,True,0.951185,0.8668221,Tr-/Te- prefixed
+Val/Glioma/images/Tr-gl_1171.jpg,test,Glioma,0.9140385,Glioma,True,0.9140385,0.8144144,Tr-/Te- prefixed
+Val/Glioma/images/Tr-gl_1303.jpg,test,Glioma,0.9767646,Glioma,True,0.9767646,0.85933656,Tr-/Te- prefixed
+Val/Glioma/images/gg (21).jpg,test,Glioma,0.9259061,Glioma,True,0.9259061,0.88020813,other filename pattern
+Val/Glioma/images/gg (254).jpg,test,Glioma,0.8502362,Glioma,True,0.8502362,0.70995253,other filename pattern
+Val/Glioma/images/gg (295).jpg,test,Glioma,0.913375,Glioma,True,0.913375,0.8491156,other filename pattern
+Val/Glioma/images/gg (31).jpg,test,Glioma,0.91495365,Glioma,True,0.91495365,0.64739,other filename pattern
+Val/Glioma/images/gg (35).jpg,test,Glioma,0.8236506,Glioma,True,0.8236506,0.7640287,other filename pattern
+Val/Glioma/images/gg (409).jpg,test,Glioma,0.94763106,Glioma,True,0.94763106,0.7263294,other filename pattern
+Val/Glioma/images/gg (427).jpg,test,Glioma,0.7990124,Glioma,True,0.7990124,0.7092697,other filename pattern
+Val/Glioma/images/gg (495).jpg,test,Glioma,0.9651293,Glioma,True,0.9651293,0.86958927,other filename pattern
+Val/Glioma/images/gg (520).jpg,test,Glioma,0.8844143,Meningioma,False,0.86662805,0.8844143,other filename pattern
+Val/Glioma/images/gg (558).jpg,test,Glioma,0.91516554,Glioma,True,0.91516554,0.8005257,other filename pattern
+Val/Glioma/images/gg (9).jpg,test,Glioma,0.9542303,Glioma,True,0.9542303,0.8460039,other filename pattern
+Val/Meningioma/images/Tr-me_1091.jpg,test,Meningioma,0.8358774,Meningioma,True,0.8358774,0.5443484,Tr-/Te- prefixed
+Val/Meningioma/images/Tr-me_1198.jpg,test,Meningioma,0.8211191,Meningioma,True,0.8211191,0.76689124,Tr-/Te- prefixed
+Val/Meningioma/images/Tr-me_1295.jpg,test,Meningioma,0.8569173,Meningioma,True,0.8569173,0.854788,Tr-/Te- prefixed
+Val/Meningioma/images/m (119).jpg,test,Meningioma,0.9295954,Meningioma,True,0.9295954,0.8639382,other filename pattern
+Val/Meningioma/images/m (59).jpg,test,Meningioma,0.9107665,Meningioma,True,0.9107665,0.7656122,other filename pattern
+Val/Meningioma/images/m1(32).jpg,test,Meningioma,0.9697047,Meningioma,True,0.9697047,0.84735125,other filename pattern
+Val/Meningioma/images/m3 (58).jpg,test,Meningioma,0.8390363,Meningioma,True,0.8390363,0.715145,other filename pattern
+Val/No Tumor/images/Tr-no_0434.jpg,test,No Tumor,0.93554074,No Tumor,True,0.93554074,0.8189288,Tr-/Te- prefixed
+Val/No Tumor/images/Tr-no_0444.jpg,test,No Tumor,0.89821446,No Tumor,True,0.89821446,0.7815246,Tr-/Te- prefixed
+Val/No Tumor/images/Tr-no_0520.jpg,test,No Tumor,0.8164511,Glioma,False,0.81642306,0.8164511,Tr-/Te- prefixed
+Val/No Tumor/images/image(162).jpg,test,No Tumor,0.78223866,No Tumor,True,0.78223866,0.7281983,other filename pattern
+Val/No Tumor/images/image(226).jpg,test,No Tumor,0.75681955,Meningioma,False,0.7398524,0.75681955,other filename pattern
+Val/No Tumor/images/image(248).jpg,test,No Tumor,0.80186236,Pituitary,False,0.76344067,0.80186236,other filename pattern
+Val/Pituitary/images/Tr-pi_0812.jpg,test,Pituitary,0.87549216,Pituitary,True,0.87549216,0.79942226,Tr-/Te- prefixed
+Val/Pituitary/images/Tr-pi_0818.jpg,test,Pituitary,0.9465507,Pituitary,True,0.9465507,0.69996524,Tr-/Te- prefixed
+Val/Pituitary/images/Tr-pi_0902.jpg,test,Pituitary,0.91968995,Pituitary,True,0.91968995,0.48854014,Tr-/Te- prefixed
+Val/Pituitary/images/Tr-pi_0999.jpg,test,Pituitary,0.7786619,Glioma,False,0.74145186,0.7786619,Tr-/Te- prefixed
+Val/Pituitary/images/Tr-pi_1110.jpg,test,Pituitary,0.92225873,Pituitary,True,0.92225873,0.827366,Tr-/Te- prefixed
+Val/Pituitary/images/Tr-pi_1200.jpg,test,Pituitary,0.8142205,Pituitary,True,0.8142205,0.7688126,Tr-/Te- prefixed
+Val/Pituitary/images/Tr-pi_1202.jpg,test,Pituitary,0.8958245,Pituitary,True,0.8958245,0.6717492,Tr-/Te- prefixed
+Val/Pituitary/images/Tr-pi_1235.jpg,test,Pituitary,0.81624097,Pituitary,True,0.81624097,0.6968815,Tr-/Te- prefixed
+Val/Pituitary/images/Tr-pi_1318.jpg,test,Pituitary,0.8528162,Pituitary,True,0.8528162,0.7502744,Tr-/Te- prefixed
+Val/Pituitary/images/Tr-pi_1436.jpg,test,Pituitary,0.7774747,Pituitary,True,0.7774747,0.661964,Tr-/Te- prefixed

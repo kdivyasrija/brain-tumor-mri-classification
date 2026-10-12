@@ -1,0 +1,13 @@
+# data and large files
+data/
+data_raw/
+*.zip
+*.pt
+*.pth
+# credentials (never commit)
+kaggle.json
+.env
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

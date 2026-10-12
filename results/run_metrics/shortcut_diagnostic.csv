@@ -1,0 +1,5 @@
+features,val_accuracy,val_macro_f1
+majority class (reference),0.30017761989342806,0.11543715846994536
+"image size only (width, height, aspect, is_512x512)",0.48312611012433393,0.40797248692392696
+size + colour mode + file size,0.6074600355239786,0.6430994435220074
+"size + mode + file size + global intensity (mean, std)",0.7122557726465364,0.7363256636328037

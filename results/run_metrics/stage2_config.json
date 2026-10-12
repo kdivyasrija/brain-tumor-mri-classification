@@ -1,0 +1,108 @@
+{
+  "seed": 42,
+  "environment": {
+    "python": "3.13.15",
+    "torch": "2.11.0+cu130",
+    "torchvision": "0.26.0+cu130",
+    "cuda_available": true,
+    "gpu": "Tesla T4",
+    "seed": 42
+  },
+  "class_names": [
+    "Glioma",
+    "Meningioma",
+    "No Tumor",
+    "Pituitary"
+  ],
+  "img_size": 224,
+  "batch_size": 32,
+  "normalisation": {
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  },
+  "eval_preprocessing": "pad to square (black) -> resize 224x224 -> tensor -> normalise",
+  "train_augmentation": "RandomResizedCrop(scale 0.85-1.0, ratio 0.95-1.05), RandomAffine(10 deg, translate 5%), ColorJitter(brightness 0.1, contrast 0.1); no horizontal flip",
+  "cleaning": {
+    "images_found": 5249,
+    "exact_duplicates_removed": 1336,
+    "images_after_cleaning": 3913
+  },
+  "near_duplicate_grouping": {
+    "dhash_threshold": 2,
+    "thumbnail_corr_threshold": 0.95,
+    "confirmed_pairs": 641,
+    "groups": 3598
+  },
+  "split": {
+    "method": "StratifiedGroupKFold(n_splits=7, shuffle=True, random_state=42): fold0=test, fold1=val, rest=train",
+    "counts": {
+      "train": 2806,
+      "val": 563,
+      "test": 544
+    },
+    "verification": {
+      "n_images": 3913,
+      "counts": {
+        "train": 2806,
+        "val": 563,
+        "test": 544
+      },
+      "class_counts": {
+        "test": {
+          "Glioma": 169,
+          "Meningioma": 155,
+          "No Tumor": 74,
+          "Pituitary": 146
+        },
+        "train": {
+          "Glioma": 852,
+          "Meningioma": 783,
+          "No Tumor": 432,
+          "Pituitary": 739
+        },
+        "val": {
+          "Glioma": 169,
+          "Meningioma": 157,
+          "No Tumor": 95,
+          "Pituitary": 142
+        }
+      },
+      "md5_shared_across_splits": 0,
+      "groups_shared_across_splits": 0,
+      "rel_duplicated": 0,
+      "linked_near_dup_pairs": 641,
+      "linked_near_dup_pairs_across_splits": 0,
+      "linked_pairs_with_different_labels": 0
+    }
+  },
+  "shortcut_diagnostic": [
+    {
+      "features": "majority class (reference)",
+      "val_accuracy": 0.3002,
+      "val_macro_f1": 0.1154
+    },
+    {
+      "features": "image size only (width, height, aspect, is_512x512)",
+      "val_accuracy": 0.4831,
+      "val_macro_f1": 0.408
+    },
+    {
+      "features": "size + colour mode + file size",
+      "val_accuracy": 0.6075,
+      "val_macro_f1": 0.6431
+    },
+    {
+      "features": "size + mode + file size + global intensity (mean, std)",
+      "val_accuracy": 0.7123,
+      "val_macro_f1": 0.7363
+    }
+  ]
+}

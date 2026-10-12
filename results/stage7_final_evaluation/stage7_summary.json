@@ -1,0 +1,163 @@
+{
+  "recomputed_metrics_match_experiment_table": true,
+  "model_comparison": [
+    {
+      "Model": "CNN baseline (B1), single run",
+      "Accuracy": "0.9283",
+      "Precision (macro)": "0.9265",
+      "Recall (macro)": "0.9221",
+      "F1 (macro)": "0.9238",
+      "ROC-AUC (OvR macro)": "0.9902",
+      "Balanced accuracy": "0.9221"
+    },
+    {
+      "Model": "ResNet18, full fine-tuning, mean of 3 seeds",
+      "Accuracy": "0.9767 \u00b1 0.0028",
+      "Precision (macro)": "0.9787 \u00b1 0.0026",
+      "Recall (macro)": "0.9763 \u00b1 0.0025",
+      "F1 (macro)": "0.9773 \u00b1 0.0022",
+      "ROC-AUC (OvR macro)": "0.9988 \u00b1 0.0006",
+      "Balanced accuracy": "0.9763 \u00b1 0.0025"
+    },
+    {
+      "Model": "ResNet50, full fine-tuning, mean of 3 seeds",
+      "Accuracy": "0.9792 \u00b1 0.0011",
+      "Precision (macro)": "0.9805 \u00b1 0.0015",
+      "Recall (macro)": "0.9785 \u00b1 0.0012",
+      "F1 (macro)": "0.9794 \u00b1 0.0013",
+      "ROC-AUC (OvR macro)": "0.9995 \u00b1 0.0001",
+      "Balanced accuracy": "0.9785 \u00b1 0.0012"
+    },
+    {
+      "Model": "Final model: ResNet18 full fine-tuning, seed-42 run (R18-C)",
+      "Accuracy": "0.9798",
+      "Precision (macro)": "0.9807",
+      "Recall (macro)": "0.9790",
+      "F1 (macro)": "0.9797",
+      "ROC-AUC (OvR macro)": "0.9994",
+      "Balanced accuracy": "0.9790"
+    }
+  ],
+  "final_model_test": {
+    "accuracy": 0.9798,
+    "balanced_accuracy": 0.979,
+    "precision_macro": 0.9807,
+    "recall_macro": 0.979,
+    "f1_macro": 0.9797,
+    "precision_weighted": 0.9799,
+    "recall_weighted": 0.9798,
+    "f1_weighted": 0.9797,
+    "roc_auc_ovr_macro": 0.9994,
+    "roc_auc_ovr_weighted": 0.9994,
+    "n": 544,
+    "bootstrap_ci_accuracy": [
+      0.9669,
+      0.9908
+    ],
+    "bootstrap_ci_macroF1": [
+      0.9672,
+      0.9909
+    ]
+  },
+  "final_model_per_class_recall": {
+    "Glioma": 0.9882,
+    "Meningioma": 0.9548,
+    "No Tumor": 0.973,
+    "Pituitary": 1.0
+  },
+  "final_model_test_errors": 11,
+  "final_errors_by_pair": {
+    "Glioma -> Meningioma": 2,
+    "Meningioma -> Glioma": 3,
+    "Meningioma -> No Tumor": 1,
+    "Meningioma -> Pituitary": 3,
+    "No Tumor -> Glioma": 1,
+    "No Tumor -> Pituitary": 1
+  },
+  "final_errors_also_wrong_in_B1": 9,
+  "images_wrong_in_all_6_runs": 3,
+  "images_wrong_in_at_least_1_of_6_runs": 25,
+  "images_wrong_in_5_or_6_runs": 5,
+  "top_confusions_6_runs": [
+    {
+      "true": "Meningioma",
+      "predicted": "Pituitary",
+      "count_over_6_runs": 23,
+      "mean_per_run": 3.83
+    },
+    {
+      "true": "Glioma",
+      "predicted": "Meningioma",
+      "count_over_6_runs": 12,
+      "mean_per_run": 2.0
+    },
+    {
+      "true": "Meningioma",
+      "predicted": "Glioma",
+      "count_over_6_runs": 11,
+      "mean_per_run": 1.83
+    },
+    {
+      "true": "No Tumor",
+      "predicted": "Glioma",
+      "count_over_6_runs": 7,
+      "mean_per_run": 1.17
+    },
+    {
+      "true": "No Tumor",
+      "predicted": "Pituitary",
+      "count_over_6_runs": 5,
+      "mean_per_run": 0.83
+    },
+    {
+      "true": "Pituitary",
+      "predicted": "Meningioma",
+      "count_over_6_runs": 5,
+      "mean_per_run": 0.83
+    }
+  ],
+  "exploratory_tests": [
+    {
+      "comparison": "512x512 vs other size (image wrong in any of 6 runs)",
+      "group_a_wrong_any_vs_never": [
+        19,
+        436
+      ],
+      "group_b_wrong_any_vs_never": [
+        6,
+        83
+      ],
+      "fisher_exact_p": 0.2741
+    },
+    {
+      "comparison": "tumour box area: smallest vs largest third",
+      "group_a_wrong_any_vs_never": [
+        6,
+        152
+      ],
+      "group_b_wrong_any_vs_never": [
+        6,
+        151
+      ],
+      "fisher_exact_p": 1.0
+    },
+    {
+      "comparison": "singleton vs multi-image group",
+      "group_a_wrong_any_vs_never": [
+        22,
+        476
+      ],
+      "group_b_wrong_any_vs_never": [
+        3,
+        43
+      ],
+      "fisher_exact_p": 0.4597
+    }
+  ],
+  "confidence_6_runs": {
+    "mean_top_prob_correct": 0.9918,
+    "mean_top_prob_wrong": 0.8517,
+    "wrong_predictions": 72,
+    "wrong_with_top_prob_above_0_9": 38
+  }
+}

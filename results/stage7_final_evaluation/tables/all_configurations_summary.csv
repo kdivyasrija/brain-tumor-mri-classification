@@ -1,0 +1,9 @@
+configuration,runs,run_ids,trainable_params_M,mean_epochs_run,mean_minutes_per_run,val_accuracy,val_f1_macro,test_accuracy,test_f1_macro,test_roc_auc
+CNN from scratch,1,B1,0.98,33.0,13.1,0.9343,0.9358,0.9283,0.9238,0.9902
+"CNN, weighted loss",1,B2,0.98,40.0,16.2,0.9538,0.9547,0.9301,0.9264,0.9909
+"ResNet18, frozen backbone",1,R18-A,0.0,28.0,10.0,0.8757,0.8826,0.8768,0.8846,0.9779
+"ResNet18, layer4 + fc",1,R18-B,8.4,14.0,5.2,0.9698,0.9726,0.9559,0.9569,0.9961
+"ResNet18, full fine-tuning",3,R18-C R18-C-s43 R18-C-s44,11.18,20.7,8.5,0.9917 ± 0.0010,0.9924 ± 0.0007,0.9767 ± 0.0028,0.9773 ± 0.0022,0.9988 ± 0.0006
+"ResNet50, frozen backbone",1,R50-A,0.01,29.0,11.6,0.9059,0.9127,0.8879,0.8922,0.9816
+"ResNet50, layer4 + fc",1,R50-B,14.97,16.0,6.3,0.9822,0.9830,0.9761,0.9770,0.9988
+"ResNet50, full fine-tuning",3,R50-C F-R50-s43 F-R50-s44,23.52,19.0,8.4,0.9905 ± 0.0010,0.9906 ± 0.0008,0.9792 ± 0.0011,0.9794 ± 0.0013,0.9995 ± 0.0001

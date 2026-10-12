@@ -1,0 +1,58 @@
+{
+ "checkpoint": {
+  "epoch": 14,
+  "monitor": "val_macro_f1",
+  "monitor_value": 0.9931915001800763
+ },
+ "reproduces_saved_predictions": {
+  "R18-C": {
+   "label_agreement": 1.0,
+   "max_abs_prob_diff": 1.1102230246251565e-16,
+   "n_label_disagreements": 0
+  },
+  "R18-C-orig": {
+   "label_agreement": 0.9724264705882353,
+   "max_abs_prob_diff": 0.9693147502839566,
+   "n_label_disagreements": 15
+  }
+ },
+ "matched_run": "R18-C",
+ "analytic_gradient_check": {
+  "max_abs_alpha_error": 2.3283064365386963e-10,
+  "alpha_scale": 0.0015803794376552105,
+  "max_abs_logit_reconstruction_error": 9.5367431640625e-07,
+  "n": 16
+ },
+ "images_with_all_zero_layer4_cam": 0,
+ "tumour_test_images": 470,
+ "tumour_images_without_matching_class_box": 2,
+ "evaluated_images": 468,
+ "randomisation_check": [
+  {
+   "randomised": "fc",
+   "n_images": 60,
+   "mean_spearman_with_trained_map": 0.04536913323480632,
+   "median_spearman": -0.05113280307589117,
+   "pointing_rate_randomised": 0.05,
+   "all_zero_maps": 0
+  },
+  {
+   "randomised": "layer4+fc",
+   "n_images": 60,
+   "mean_spearman_with_trained_map": -0.01175889238285278,
+   "median_spearman": -0.002014008576150505,
+   "pointing_rate_randomised": 0.03333333333333333,
+   "all_zero_maps": 0
+  },
+  {
+   "randomised": "all",
+   "n_images": 60,
+   "mean_spearman_with_trained_map": -0.11736844643292943,
+   "median_spearman": -0.2491977474940664,
+   "pointing_rate_randomised": 0.016666666666666666,
+   "all_zero_maps": 17
+  }
+ ],
+ "mean_heat_share_on_padding_layer4": 0.0011267049060821146,
+ "note": "Boxes used: only boxes whose class id equals the image class. No Tumor images are excluded (their boxes cover most of the brain)."
+}

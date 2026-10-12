@@ -1,0 +1,10 @@
+true,predicted,count_over_6_runs,mean_per_run
+Meningioma,Pituitary,23,3.83
+Glioma,Meningioma,12,2.0
+Meningioma,Glioma,11,1.83
+No Tumor,Glioma,7,1.17
+No Tumor,Pituitary,5,0.83
+Pituitary,Meningioma,5,0.83
+Glioma,Pituitary,4,0.67
+Meningioma,No Tumor,4,0.67
+Pituitary,Glioma,1,0.17

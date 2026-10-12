@@ -1,0 +1,12 @@
+rel,true_label,predicted,p_pred_final,p_true_final,n_wrong_6,wrong_B1,width,height,contrast_std,mean_intensity,tumour_box_area,group_size,source_style
+Train/Glioma/images/gg (365).jpg,Glioma,Meningioma,0.877,0.122,6,True,512,512,40.973,44.835,0.009,1,gg (n)
+Train/Meningioma/images/Tr-me_0119.jpg,Meningioma,Pituitary,0.921,0.079,3,False,512,512,38.671,44.545,0.009,1,Tr-/Te- prefixed
+Train/Meningioma/images/Tr-me_1155.jpg,Meningioma,Glioma,0.986,0.014,4,True,512,512,41.936,52.792,0.026,1,Tr-/Te- prefixed
+Train/Meningioma/images/m1(20).jpg,Meningioma,Pituitary,0.847,0.153,6,True,512,512,43.091,35.044,0.017,2,m (n) / m1-3 (n)
+Train/Meningioma/images/m1(49).jpg,Meningioma,Pituitary,0.75,0.25,3,False,512,512,36.67,39.811,0.016,1,m (n) / m1-3 (n)
+Train/Meningioma/images/m1(92).jpg,Meningioma,No Tumor,0.7,0.3,2,True,219,234,75.991,93.825,0.103,1,m (n) / m1-3 (n)
+Train/Meningioma/images/m3 (187).jpg,Meningioma,Glioma,0.647,0.353,3,True,512,512,41.234,35.629,0.013,1,m (n) / m1-3 (n)
+Train/Meningioma/images/m3 (45).jpg,Meningioma,Glioma,0.945,0.046,2,True,512,512,46.334,46.021,0.026,1,m (n) / m1-3 (n)
+Train/No Tumor/images/image(25).jpg,No Tumor,Glioma,0.873,0.102,6,True,236,251,41.996,53.585,,1,image (n)
+Train/No Tumor/images/image(94).jpg,No Tumor,Pituitary,0.995,0.005,5,True,235,244,41.718,79.761,,1,image (n)
+Val/Glioma/images/gg (254).jpg,Glioma,Meningioma,0.925,0.075,3,True,512,512,42.216,45.257,0.006,1,gg (n)

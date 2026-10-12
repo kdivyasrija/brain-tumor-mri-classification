@@ -1,0 +1,20 @@
+factor,level,images,mean_error_rate_6_runs,images_wrong_in_any_run,images_wrong_in_final_model
+true class,Glioma,169,0.0158,6,2
+true class,Meningioma,155,0.0409,13,7
+true class,No Tumor,74,0.027,3,2
+true class,Pituitary,146,0.0068,3,0
+image size,512x512,455,0.0194,19,8
+image size,other size,89,0.0356,6,3
+filename pattern (proxy for source),Tr-/Te- prefixed,335,0.0055,6,2
+filename pattern (proxy for source),gg (n),87,0.0287,5,2
+filename pattern (proxy for source),image (n),23,0.0797,2,2
+filename pattern (proxy for source),m (n) / m1-3 (n),48,0.1042,10,5
+filename pattern (proxy for source),p (n),51,0.0163,2,0
+"box area, tumour classes (edges 0.012, 0.026 of image)",smallest third,158,0.02,6,3
+"box area, tumour classes (edges 0.012, 0.026 of image)",middle third,155,0.0323,10,3
+"box area, tumour classes (edges 0.012, 0.026 of image)",largest third,157,0.0117,6,3
+contrast (pixel std) tercile,lowest third,182,0.0147,7,2
+contrast (pixel std) tercile,middle third,181,0.0424,12,7
+contrast (pixel std) tercile,highest third,181,0.0092,6,2
+near-duplicate group,singleton image,498,0.0204,22,10
+near-duplicate group,member of a multi-image group,46,0.0399,3,1

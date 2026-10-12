@@ -1,0 +1,12 @@
+# Packages used by the notebooks and scripts (Colab provides most of them)
+torch
+torchvision
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+pillow
+tqdm
+kaggle        # only to download the dataset; supply your own credentials, never commit them
